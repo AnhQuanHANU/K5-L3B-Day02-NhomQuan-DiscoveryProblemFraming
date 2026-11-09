@@ -12,3 +12,4 @@
 | **Mất bao lâu, bao lần?** | Trung bình 70–90 phút cho mỗi biên bản sau workshop dài; trung bình 2–3 buổi workshop mỗi tuần trong giai đoạn đầu dự án (Inception/Discovery). |
 | **Insight / Opportunity rút ra** | Nỗi đau lớn nhất không phải là gõ chữ, mà là **công sức nghe lại audio để định vị chính xác quyết định cuối cùng giữa một chuỗi tranh cãi qua lại**. |
 | **Rào cản bảo mật ghi nhận được** | Khách hàng tài chính/ngân hàng ký NDA cực kỳ nghiêm ngặt, tuyệt đối cấm thả bot lạ vào phòng họp Zoom/Meet. Dữ liệu chỉ được xử lý nội bộ. |
+

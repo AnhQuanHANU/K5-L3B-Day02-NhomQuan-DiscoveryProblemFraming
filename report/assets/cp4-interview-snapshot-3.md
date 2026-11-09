@@ -12,3 +12,4 @@
 | **Mất bao lâu, bao lần?** | Mất khoảng 60 phút mỗi lần; cảm giác rất căng thẳng vì vừa phải điều phối thảo luận vừa phải ghi chép sợ sót ý. |
 | **Insight / Opportunity rút ra** | AI tổng quát không đáp ứng được yêu cầu vì thiếu cấu trúc phân loại nghiệp vụ chuyên biệt của BA; người dùng cần **bằng chứng đối soát (traceability/timestamp)** để kiểm tra lại tính chính xác trước khi gửi. |
 | **Mong muốn công cụ** | Cần một công cụ phân loại đúng 4 mục chuyên ngành BA và cho phép nhấp vào xem lại câu gốc trong vài giây thay vì phải đọc văn bản dài. |
+

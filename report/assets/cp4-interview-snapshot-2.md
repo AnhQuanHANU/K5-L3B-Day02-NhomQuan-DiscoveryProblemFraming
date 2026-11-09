@@ -12,3 +12,4 @@
 | **Mất bao lâu, bao lần?** | Xảy ra ở 100% các dự án; rủi ro tranh cãi scope xuất hiện ít nhất 1–2 lần mỗi sprint nếu không có biên bản bằng văn bản chặt chẽ. |
 | **Insight / Opportunity rút ra** | Biên bản workshop không chỉ là tài liệu nội bộ mà là **căn cứ pháp lý - nghiệp vụ quan trọng nhất** để bảo vệ đội ngũ phát triển trước rủi ro làm thêm việc không tính phí. |
 | **Yêu cầu đối soát** | Mọi nội dung biên bản gửi khách phải có bằng chứng đối soát rõ ràng; PM cần xem được mốc thời gian khách hàng đã phát biểu yêu cầu đó khi xảy ra tranh chấp. |
+
