@@ -9,7 +9,7 @@
 - Họ tên: Nguyễn Anh Quân
 - MSSV: 2A202603892
 - Email trường: quanna.2a202603892@sis.hanu.edu.vn
-- Tên nhóm: Vin Smart Future (L3B-Team02)
+- Tên nhóm: L3B-Team02
 - Link repo nhóm: https://github.com/AnhQuanHANU/K5-L3-Day02-NguyenAnhQuan03892-DiscoveryProblemFraming
 
 ---
@@ -18,25 +18,25 @@
 
 Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng hợp nhiều thông tin** · **Pain từ người khác**.
 
-*(Thực hiện quét 10 bài toán thực tế đạt tiêu chuẩn Bonus B1, toàn bộ được viết theo chuẩn Job Story, không chứa từ khóa giải pháp, có số liệu và dấu hiệu đo lường thực tế).*
+*(Thực hiện quét 10 bài toán thực tế gắn liền với cuộc sống sinh viên đại học, đi tìm việc thực tập và sinh hoạt tại căn hộ thuê chung. Đạt tiêu chuẩn Bonus B1, toàn bộ viết theo chuẩn Job Story, không chứa từ khóa giải pháp, có số liệu đo lường thực tế).*
 
 | # | Lăng kính | Job Story: Khi… tôi muốn… để… | Ai chịu ảnh hưởng? | Dấu hiệu thật (thời gian, tần suất, số người, bằng chứng) |
 |---:|---|---|---|---|
-| 1 | Tốn thời gian | Khi xe taxi điện báo pin dưới 10% giữa ca chạy, tôi muốn tìm được trạm sạc tương thích còn trụ trống gần nhất hoặc xe cứu hộ, để không bị dừng xe chết máy giữa đường | Tài xế Xanh SM, Điều phối viên | Bấm giờ thực tế: 12–15 phút/cuộc gọi điều phối; ~80 ca/ngày tại HN & HCM; log tổng đài ghi nhận xe chết máy kéo về xưởng tốn 500.000đ/lần |
-| 2 | Cần đọc, tổng hợp nhiều thông tin | Khi xe điện sắp hết pin trên đường cao tốc, tôi muốn biết chính xác trạm sạc phía trước có cổng đúng chuẩn xe mình (CCS2/GBT) và còn chỗ trống không, để không mất công rẽ vào rồi lại quay xe ra | Chủ xe VinFast (VF5, VF8, VF9) | 8–10 phút dừng xe tra cứu App; 3/10 lần đến nơi phải chờ 30-45 phút do trạm kín xe hoặc hỏng trụ sạc |
-| 3 | Lặp lại | Khi nhận hàng trăm phản ánh của cư dân mỗi ngày trên ứng dụng di động, tôi muốn chuyển tiếp chính xác từng yêu cầu đến đúng tổ kỹ thuật tòa nhà, để xử lý sự cố kịp thời | Nhân viên CSKH Vinhomes, Cư dân | Hơn 1.200 ticket/ngày; mất trung bình 8 phút/ticket phân loại; thời gian phản hồi tồn đọng kéo dài tới 12 tiếng |
-| 4 | Tốn thời gian | Khi bệnh nhân chuẩn bị xuất viện, tôi muốn tổng hợp các chỉ số xét nghiệm, chẩn đoán hình ảnh và đơn thuốc thành bản hướng dẫn chăm sóc tại nhà dễ hiểu, để bệnh nhân tuân thủ phác đồ an toàn | Bác sĩ điều trị Vinmec, Bệnh nhân | 20–25 phút/bệnh nhân để tóm tắt hồ sơ bệnh án; trung bình 15 bệnh nhân xuất viện/khoa/ngày; bác sĩ thường xuyên phải làm thêm giờ |
-| 5 | Lặp lại | Khi đối chiếu số liệu điện năng tiêu thụ hằng tuần từ các trạm sạc đối tác bên ngoài, tôi muốn so khớp chuẩn xác với dữ liệu sạc thực tế trên hệ thống xe, để thanh toán đúng hạn và không thất thoát chi phí | Kế toán vận hành VinFast | 3.000+ điểm sạc đối tác; mất 12 tiếng làm việc mỗi thứ Hai để rà soát Excel; phát hiện sai lệch trung bình 3-5% hóa đơn |
-| 6 | Pain từ người khác | Khi khách sạn nhận được đánh giá tiêu cực nghiêm trọng trên các trang đặt phòng trực tuyến, tôi muốn nhận cảnh báo ngay lập tức, để liên hệ xử lý bồi thường trải nghiệm trước khi khách rời đi | Quản lý tiền sảnh Vinpearl, Khách lưu trú | Hơn 300 review/ngày trên Booking/Agoda/Google; quản lý mất 2 tiếng đọc rà soát mỗi sáng; 2/5 khiếu nại phát hiện muộn sau khi khách đã trả phòng |
-| 7 | Cần đọc, tổng hợp nhiều thông tin | Khi khách hàng đưa xe vào xưởng và miêu tả âm thanh lạ phát ra từ gầm xe, tôi muốn khoanh vùng nhanh các cụm chi tiết nghi ngờ hỏng hóc, để bàn giao thợ kiểm tra đúng vị trí | Cố vấn dịch vụ VinFast, Khách hàng | Khách hàng mô tả tự do ("kêu lục cục khi qua gờ giảm tốc"); cố vấn mất 15 phút hỏi đáp qua lại; 20% trường hợp chẩn đoán ban đầu chưa chuẩn |
-| 8 | Lặp lại | Khi cư dân mới chuyển vào khu đô thị đăng ký thẻ gửi xe và thi công nội thất, tôi muốn kiểm tra tính đầy đủ của hồ sơ đăng ký, để duyệt nhanh mà không bắt cư dân đi lại nhiều lần | Ban quản lý tòa nhà, Cư dân mới | Mất 15 phút đối chiếu giấy tờ/hồ sơ; 35% hồ sơ nộp thiếu giấy tờ phải gọi điện yêu cầu bổ sung |
-| 9 | Tốn thời gian | Khi chuẩn bị lịch vận hành tuần mới cho đội tàu cano và xe bus điện đưa đón khách du lịch, tôi muốn dự báo chuẩn xác lượng khách theo từng khung giờ, để phân bổ phương tiện hợp lý tránh ùn tắc | Điều hành vận tải VinWonders | Mất 4 tiếng mỗi chiều thứ Sáu để tính toán điều xe; giờ cao điểm khách vẫn phải xếp hàng chờ trên 25 phút |
-| 10 | Pain từ người khác | Khi khách hàng gọi đến tổng đài khiếu nại về việc bị trừ tiền sạc pin sai so với thời gian cắm sạc thực tế, tôi muốn có ngay lịch sử phiên sạc và trạng thái trụ, để giải thích và hoàn tiền trong cuộc gọi đầu tiên | Tổng đài viên CSKH VinFast | Trung bình 45 cuộc gọi khiếu nại/ngày; thời gian tra cứu xác minh mất 10 phút/ca; 15% khách hàng đánh giá 1 sao vì phải chờ tra soát lại |
+| 1 | Tốn thời gian | Khi chuẩn bị nộp CV ứng tuyển vị trí thực tập cụ thể, tôi muốn điều chỉnh các gạch đầu dòng mô tả dự án học tập cho khớp với từ khóa trong bản mô tả công việc (JD), để hồ sơ không bị loại ngay từ vòng lọc tự động (ATS) | Sinh viên năm cuối, người tìm việc thực tập | Bấm giờ thực tế: 45–60 phút cho mỗi lần chỉnh sửa CV; nộp 12–15 công ty/tháng; tỷ lệ nhận phản hồi chỉ khoảng 10-15% nếu dùng CV chung |
+| 2 | Cần đọc, tổng hợp nhiều thông tin | Khi đọc một bản tin tuyển dụng (JD) dài 2–3 trang trên LinkedIn/TopCV, tôi muốn bóc tách nhanh các kỹ năng bắt buộc (must-have) so với kỹ năng ưu tiên (nice-to-have), để đánh giá độ phù hợp của bản thân trước khi nộp | Sinh viên tìm việc | Đọc và gạch chân mất 20–30 phút/JD; trung bình đọc 15–20 JD mỗi tuần trong đợt cao điểm tìm thực tập |
+| 3 | Tốn thời gian | Khi nhận được lời mời phỏng vấn kỹ thuật/tình huống vào ngày mai, tôi muốn tổng hợp các câu hỏi phỏng vấn thường gặp dựa trên chính các yêu cầu trong JD, để luyện tập câu trả lời có trọng tâm mà không bị bỡ ngỡ | Sinh viên chuẩn bị phỏng vấn | Mất 90 phút lướt các diễn đàn/Glassdoor tìm câu hỏi tương tự; 2–3 buổi phỏng vấn/tháng |
+| 4 | Lặp lại | Khi chuẩn bị nộp bài tập lớn/lab trước deadline 23h59, tôi muốn đối chiếu toàn bộ các quy định đặt tên file, cấu trúc thư mục và tiêu chí rubric, để không bị trừ 5–10 điểm vì lỗi format ngớ ngẩn | Sinh viên, Nhóm trưởng môn học | Mất 35–45 phút mở tài liệu rubric 10 trang dò từng dòng checklist; tuần nào cũng có 1–2 bài lab nộp dồn dập |
+| 5 | Cần đọc, tổng hợp nhiều thông tin | Khi làm tiểu luận hoặc đề tài môn học cần đọc các bài báo nghiên cứu tiếng Anh dài 30–50 trang, tôi muốn nắm nhanh phương pháp nghiên cứu và phát hiện chính, để trích dẫn vào bài mà không mất cả ngày dịch hiểu từng đoạn | Sinh viên làm tiểu luận/nghiên cứu | 2–3 tiếng cho một bài báo khoa học; mỗi kỳ phải đọc tham khảo từ 5–7 bài; gây chậm tiến độ viết đề cương |
+| 6 | Pain từ người khác | Khi giảng viên và ban cán sự lớp thông báo dồn dập trong nhóm Zalo/Discord môn học, tôi muốn tìm lại được đúng đường link nộp bài và thời hạn chốt, để không bị nộp muộn do trôi tin nhắn | Sinh viên trong lớp | Mất 15–20 phút cuộn tìm tin nhắn cũ giữa hàng trăm tin chat thảo luận; 3/8 tuần gần nhất có bạn nộp muộn vì không thấy link nộp |
+| 7 | Pain từ người khác | Khi làm việc nhóm 4 người trong bài tập lớn, tôi muốn theo dõi rõ ràng bạn nào đang làm phần việc nào và tiến độ đến đâu, để không bị dồn toàn bộ bài vào đêm cuối cùng trước hạn nộp | Trưởng nhóm, Thành viên nhóm | Nhóm trưởng mất 45 phút mỗi tối nhắn tin giục bài từng người; 80% bài tập nhóm bị tình trạng "nước đến chân mới nhảy" vào 2 ngày cuối |
+| 8 | Lặp lại | Khi nhận hóa đơn tổng tiền điện, nước và phí quản lý căn hộ chung cư vào ngày 5 hàng tháng, tôi muốn chia đều chi phí chính xác theo số ngày có mặt thực tế của từng bạn cùng phòng, để thu tiền sòng phẳng không gây xích mích | Sinh viên ở ghép căn hộ/phòng trọ | Mất 30 phút nhập bảng tính Excel, tính bù trừ ngày về quê và chụp ảnh gửi nhóm phòng; diễn ra đều đặn 1 lần/tháng với 3 bạn cùng phòng |
+| 9 | Pain từ người khác | Khi đồ đạc trong căn hộ thuê bị hỏng hóc (máy lạnh chảy nước, bình nóng lạnh không nóng), tôi muốn mô tả chính xác triệu chứng lỗi và vị trí kèm ảnh, để chủ nhà cử đúng thợ sửa chữa trong ngày mà không phải nhắn tin hỏi đi hỏi lại | Sinh viên thuê trọ, Chủ nhà | Mất 20 phút nhắn tin giải thích qua lại; 2 lần gần nhất thợ đến nhầm đồ nghề phải hẹn lại sang ngày hôm sau |
+| 10 | Lặp lại | Khi cuối tháng tài khoản ngân hàng báo sắp hết tiền, tôi muốn tổng hợp các khoản tiền ăn uống, mua sắm lắt nhắt từ nhiều tài khoản (Vietcombank, MoMo, tiền mặt), để biết mình đã chi lố vào việc gì và cân đối tháng sau | Sinh viên tự lập tài chính | Mất 45 phút ngồi cộng sổ/app; tháng nào cũng bị hụt từ 500k–1 triệu đồng mà không rõ đã tiêu vào khoản gì |
 
 **Nếu có dùng AI để gợi ý thêm:**  
-Sau khi tự mình scan 8 bài toán thực tế dựa trên các quan sát vận hành tại hệ sinh thái Vingroup, tôi sử dụng AI để brainstorm thêm 2 bài toán ở mảng giải trí và chăm sóc khách hàng:
-- **Ý giữ lại:** Ý #9 (Phân bổ phương tiện VinWonders) và Ý #10 (Khiếu nại cước sạc pin CSKH) vì có dữ liệu log cuộc gọi và quy trình tiếp nhận cụ thể.
-- **Ý loại bỏ:** AI gợi ý *"Xây dựng trợ lý ảo AI tự động quản lý và giải quyết toàn bộ sự cố xe VinFast từ xa"*. Tôi loại bỏ vì quá mơ hồ, vi phạm nghiêm trọng tính an toàn vật lý của phương tiện và không có quy trình vận hành cụ thể nào hiện nay cho phép AI tự động can thiệp vào xe đang chạy trên đường.
+Sau khi tự mình liệt kê 8 vấn đề từ chính cuộc sống hằng ngày của bản thân và bạn cùng phòng, tôi dùng AI để brainstorm thêm 2 bài toán về quản lý sinh hoạt:
+- **Ý giữ lại:** Ý #9 (Báo lỗi đồ đạc phòng trọ) và Ý #10 (Tổng hợp chi tiêu sinh viên cuối tháng) vì có bối cảnh thực tế rõ ràng, lặp lại hàng tháng.
+- **Ý loại bỏ:** AI gợi ý *"Xây dựng hệ thống AI tự động nộp hồ sơ xin việc hàng loạt (Auto-apply) lên 100 công ty cùng lúc"*. Tôi loại bỏ vì hành vi này là spam hồ sơ, chất lượng CV kém và chắc chắn sẽ bị các nhà tuyển dụng đưa vào danh sách đen (blacklist).
 
 ---
 
@@ -46,117 +46,126 @@ Sau khi tự mình scan 8 bài toán thực tế dựa trên các quan sát vậ
 
 | Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
 |---:|---|---|---|
-| 1 | Điều phối khẩn cấp pin xe taxi điện Xanh SM (#1) | Quy trình vận hành rõ rệt, actor cụ thể (điều phối viên), tổn thất đo được bằng tiền/thời gian, ranh giới an toàn rất nghiêm ngặt | Tỉ lệ trạm sạc có API cập nhật trụ trống thời gian thực có ổn định dưới 3 giây không |
-| 2 | Trợ lý tìm trạm sạc thông minh theo chuẩn cổng VinFast (#2) | Nhu cầu cực lớn từ hàng vạn chủ xe cá nhân, giải tỏa tâm lý lo âu cạn pin (Range Anxiety), tích hợp được ngay trên màn hình xe | Khả năng giữ chỗ trước trụ sạc trong 15 phút cần phối hợp cơ chế khóa trụ vật lý |
-| 3 | Phân loại & điều phối phản ánh cư dân Vinhomes (#3) | Khối lượng lặp lại khổng lồ (>1.200 ticket/ngày), bottleneck rõ ở bước đọc và gán nhãn phòng ban | Một số phản ánh phức tạp (tranh chấp ranh giới, tiếng ồn khó xác định) có thể cần con người điều tra trực tiếp |
+| 1 | Điều chỉnh CV và so khớp kỹ năng theo JD ứng tuyển thực tập (#1) | Nhu cầu cấp thiết của mọi sinh viên năm 3–4, thời gian làm thủ công rất lâu (45–60 phút/lần), bottleneck rõ ở bước viết lại câu chữ mô tả dự án | Liệu AI có nguy cơ "bịa" thêm kỹ năng mà sinh viên không có hay không? |
+| 2 | Rà soát bài nộp theo checklist rubric môn học trước 23h59 (#4) | Tần suất xuất hiện hàng tuần, quy tắc chấm thi rất khắt khe (sai tên file là bị trừ 5 điểm), sinh viên nào cũng lo sợ | Rubric mỗi môn học lại trình bày một kiểu (PDF, Word, ảnh chụp) nên khó chuẩn hóa định dạng |
+| 3 | Phân bổ và đối soát chi phí hóa đơn điện/nước căn hộ thuê chung (#8) | Nỗi đau lặp lại hằng tháng của hàng triệu sinh viên ở trọ, dễ gây bất hòa giữa bạn bè cùng phòng nếu tính sai | Bài này có thể giải quyết tốt bằng một file Google Sheets có sẵn công thức (No AI) |
 
 ---
 
-### Problem Card #1 — Điều phối khẩn cấp pin xe taxi điện Xanh SM
+### Problem Card #1 — Điều chỉnh CV theo JD ứng tuyển thực tập (Card chọn để Pitch)
 
 | Trường | Nội dung |
 |---|---|
-| Job Story | Khi xe taxi điện báo pin dưới 10% giữa ca chạy, tôi muốn tìm được trạm sạc tương thích còn trụ trống gần nhất hoặc xe cứu hộ, để không bị dừng xe chết máy giữa đường |
-| Actor | Điều phối viên tại Trung tâm Điều vận Xanh SM (Hà Nội & TP.HCM) |
-| Thời điểm / bối cảnh | Giờ cao điểm hoặc đêm muộn, tài xế đang chở khách hoặc đang trên đường đón khách thì xe cạn pin nguy cấp |
-| Quy trình hiện tại (3–7 bước) | 1. Nhận cuộc gọi khẩn cấp từ tài xế qua tổng đài · 2. Tra cứu tọa độ GPS xe trên bản đồ hạm đội · 3. Mở Dashboard trạm sạc VinFast tìm trạm gần nhất còn trụ trống đúng chuẩn cổng (CCS2) · 4. Tự gõ tin nhắn SMS chỉ đường và mẹo tiết kiệm điện gửi tài xế · 5. Gọi đội xe cứu hộ sạc lưu động nếu pin dưới 5% |
-| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3 & 4 (mất 10 trên tổng số 15 phút/lượt): Phải mở nhiều màn hình rời rạc, đối chiếu loại xe với công suất trụ sạc và tự gõ hướng dẫn bằng tay |
-| Impact (nếu không giải thì sao) | Lãng phí 20 giờ làm việc/ngày của đội điều phối; tổn thất ~15% doanh thu cuốc xe của tài xế; tốn 500.000đ phí kéo xe cho mỗi vụ chết máy; gây ùn tắc giao thông |
-| Success metric (baseline → target) | Thời gian xử lý từ 15 phút giảm xuống dưới 3 phút; 0 trường hợp xe chết máy do chỉ dẫn trạm sạc vượt quá dung lượng pin còn lại |
-| Phương án không dùng AI | Chuẩn hóa bảng tra cứu trạm sạc dạng tài liệu PDF gắn sẵn toạ độ + kịch bản tin nhắn mẫu (Template): Giảm được 2-3 phút gõ phím nhưng không cập nhật được trụ sạc đang trống thời gian thực |
-| Giả thuyết về AI (nếu có) | AI đóng vai trò Co-pilot tự động đọc dữ liệu GPS và pin của xe, tra cứu trạm trống khả dụng, soạn sẵn bản nháp hướng dẫn có gắn thẻ `[DRAFT_ONLY]` để điều phối viên bấm 1 chạm gửi đi; tự động tạo lệnh cứu hộ nếu pin < 5% |
-| Cảm nhận nhanh | Workflow (Quy trình cố định, AI thực hiện bước soạn nháp văn bản có con người phê duyệt) |
+| Job Story | Khi chuẩn bị nộp CV ứng tuyển vị trí thực tập cụ thể, tôi muốn điều chỉnh các gạch đầu dòng mô tả dự án học tập cho khớp với từ khóa trong bản mô tả công việc (JD), để hồ sơ không bị loại ngay từ vòng lọc tự động (ATS) |
+| Actor | Sinh viên đại học năm 3 / năm 4 đang trong quá trình tìm kiếm cơ hội thực tập đầu tiên |
+| Thời điểm / bối cảnh | Buổi tối hoặc cuối tuần, chuẩn bị nộp hồ sơ cho 3–5 công ty công nghệ/doanh nghiệp có mở đợt tuyển thực tập sinh |
+| Quy trình hiện tại (3–7 bước) | 1. Đọc kỹ JD của công ty và gạch chân các kỹ năng yêu cầu · 2. Mở file CV hiện tại của mình · 3. So sánh tìm xem dự án học tập nào của mình liên quan nhất đến JD · 4. Ngồi gõ lại từng gạch đầu dòng (bullet points) để lồng ghép các từ khóa kỹ thuật của JD · 5. Tự format lại căn lề và xuất ra file PDF |
+| Bottleneck (bước nào, mất bao nhiêu phút) | **Bước 3 & 4 (mất 30 trên tổng số 60 phút/lần):** Thường bị bí từ ngữ (writer's block), không biết cách diễn đạt dự án môn học sao cho chuyên nghiệp và đúng ngữ cảnh mà nhà tuyển dụng đang tìm kiếm |
+| Impact (nếu không giải thì sao) | Mất 15–20 tiếng mỗi tháng chỉ để sửa CV; nếu nộp CV chung chung thì tỷ lệ bị loại từ vòng duyệt hồ sơ lên tới 85%; gây tâm lý mệt mỏi, nản chí khi xin việc |
+| Success metric (baseline → target) | Thời gian chuẩn bị CV cho 1 công ty giảm từ **60 phút xuống dưới 15 phút**; tỷ lệ từ khóa cốt lõi của JD xuất hiện chuẩn xác trong CV đạt **> 85%**; **0 thông tin bịa đặt** |
+| Phương án không dùng AI | Sử dụng mẫu CV chuẩn (Harvard CV Template) + danh sách từ khóa động từ hành động (Action Verbs): Giảm được thời gian format nhưng vẫn mất 30 phút ngồi vắt óc viết lại từng câu |
+| Giả thuyết về AI (nếu có) | AI Co-pilot đóng vai trò người rà soát: đọc JD và đọc phần tóm tắt dự án của sinh viên, gợi ý cách viết lại các gạch đầu dòng súc tích hơn theo công thức STAR (Situation, Task, Action, Result), làm nổi bật từ khóa kỹ năng mà sinh viên thực sự có |
+| Cảm nhận nhanh | **Workflow** (Quy trình cố định từng bước, AI hỗ trợ khâu diễn đạt ngôn ngữ, sinh viên bắt buộc phải tự kiểm tra tính xác thực trước khi nộp) |
 
 Quy trình nháp hiện tại:
 
 ```text
-[1. Nhận cuộc gọi: 2'] → [2. Tra cứu GPS xe: 2'] → [3. Tra cứu trạm sạc trống: 5'] 🔴
-→ [4. Gõ SMS chỉ đường: 5'] 🔴 → [5. Bàn giao cứu hộ nếu pin < 5%: 1']
-Tổng thời gian: 15 phút/lượt. (🔴 = Bước nghẽn chính)
+HIỆN TẠI — 60 phút cho 1 bộ hồ sơ
+
+[1. Đọc JD & gạch chân: 15'] → [2. Mở CV hiện tại: 5'] 
+→ [3. So khớp tìm điểm tương đồng: 15'] 🔴 BOTTLENECK
+→ [4. Viết lại các bullet point theo từ khóa JD: 20'] 🔴 BOTTLENECK
+→ [5. Format lại & xuất PDF: 5']
+Tổng thời gian: 60 phút/lần nộp. (🔴 = Bước nghẽn mất 35 phút)
 ```
 
 ---
 
-### Problem Card #2 — Trợ lý hướng dẫn trạm sạc thông minh VinFast
+### Problem Card #2 — Rà soát bài nộp theo checklist rubric môn học trước 23h59
 
 | Trường | Nội dung |
 |---|---|
-| Job Story | Khi xe điện sắp hết pin trên đường, tôi muốn biết chính xác trạm sạc phía trước có cổng đúng chuẩn xe mình (CCS2/GBT) và còn chỗ trống không, để không mất công rẽ vào rồi lại quay xe ra |
-| Actor | Chủ xe điện VinFast (VF5, VF8, VF9, VFe34) đang trực tiếp lái xe |
-| Thời điểm / bối cảnh | Xe báo pin dưới 20% trên màn hình tablo khi đang lưu thông trên đường quốc lộ hoặc nội đô đông đúc |
-| Quy trình hiện tại (3–7 bước) | 1. Xe phát âm thanh cảnh báo pin yếu · 2. Lái xe phải tấp vào lề đường, bật điện thoại mở App VinFast · 3. Bấm vào từng trạm sạc xung quanh kiểm tra chuẩn cổng và số trụ xanh còn trống · 4. Tự tính quãng đường còn lại và chọn trạm · 5. Mở ứng dụng bản đồ dẫn đường lái xe đến trạm |
-| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3 & 4 (mất 7–10 phút dừng xe tra cứu, hoặc mất thêm 30–45 phút nếu đến nơi trụ sạc bị xe khác vào chiếm chỗ) |
-| Impact (nếu không giải thì sao) | Gây tâm lý ức chế, lo âu cạn pin (Range Anxiety); nguy cơ mất an toàn giao thông khi lái xe vừa đi vừa nhìn màn hình điện thoại tìm trạm |
-| Success metric (baseline → target) | Thời gian tìm và quyết định trạm sạc từ 10 phút giảm xuống dưới 15 giây (rảnh tay qua giọng nói); tỉ lệ đến trạm có sẵn trụ sạc tương thích đạt > 95% |
-| Phương án không dùng AI | Bộ lọc cứng (Rule-based Filter) trên màn hình trung tâm của xe: Lọc các trạm sạc trong bán kính 10km có cổng sạc khớp với xe |
-| Giả thuyết về AI (nếu có) | Trợ lý giọng nói trong xe (In-car Assistant) tự động phân tích mức pin, phong cách lái xe và tình trạng giao thông trên tuyến đường để đề xuất 1 trạm tối ưu nhất và tạm giữ chỗ trụ sạc 15 phút |
-| Cảm nhận nhanh | Rule kết hợp LLM Feature (Hybrid) |
+| Job Story | Khi chuẩn bị nộp bài tập lớn/lab trước deadline 23h59, tôi muốn đối chiếu toàn bộ các quy định đặt tên file, cấu trúc thư mục và tiêu chí rubric, để không bị trừ 5–10 điểm vì lỗi format ngớ ngẩn |
+| Actor | Sinh viên / Nhóm trưởng phụ trách nộp bài lab, bài tập lớn trên LMS/GitHub |
+| Thời điểm / bối cảnh | Lúc 22h–23h30 đêm hạn chót nộp bài, cả nhóm vừa hoàn thiện xong nội dung và đang rất mệt mỏi, vội vã nộp |
+| Quy trình hiện tại (3–7 bước) | 1. Tải bản hoàn thiện cuối cùng từ Git hoặc Google Drive · 2. Mở file PDF hướng dẫn và Rubric của môn học · 3. Dò thủ công từng file xem đã đúng tên `MSSV_HoTen.md` chưa, tên repo đúng mẫu chưa · 4. Kiểm tra các heading bắt buộc và link tài liệu · 5. Nén file / dán link nộp lên hệ thống LMS |
+| Bottleneck (bước nào, mất bao nhiêu phút) | **Bước 3 & 4 (mất 25 trên tổng số 40 phút):** Tài liệu rubric thường dài 8–10 trang với hàng chục điều kiện nhỏ; sinh viên lúc mệt rất dễ hoa mắt bỏ sót một quy định ẩn |
+| Impact (nếu không giải thì sao) | Bài làm nội dung rất tốt nhưng bị trừ oan từ 5–15% điểm chỉ vì sai tên file hoặc thiếu 1 tiêu đề quy định; nhóm trưởng bị áp lực trách nhiệm rất lớn |
+| Success metric (baseline → target) | Thời gian kiểm tra rà soát giảm từ **40 phút xuống dưới 8 phút**; tỷ lệ bài nộp bị trừ điểm quy cách format **giảm về 0%** |
+| Phương án không dùng AI | Một bảng checklist in sẵn bằng giấy hoặc checklist trên Google Keep: Sinh viên tích chọn từng mục thủ công |
+| Giả thuyết về AI (nếu có) | Một đoạn script Python đơn giản (Rule-based) hoặc AI kiểm tra văn bản đối chiếu cấu trúc thư mục với bản mô tả rubric và in ra báo cáo các mục còn thiếu |
+| Cảm nhận nhanh | **Rule-based** (Bài toán này hoàn toàn giải quyết được bằng Rule kiểm tra tên file/folder, không nhất thiết phải dùng AI tạo sinh phức tạp) |
 
 Quy trình nháp hiện tại:
 
 ```text
-[1. Cảnh báo pin tablo: 30s] → [2. Tấp lề mở App: 2'] → [3. So khớp cổng & trụ: 4'] 🔴
-→ [4. Tính km chọn trạm: 3'] 🔴 → [5. Lái đến trạm & rủi ro hết chỗ: 15-45']
-Tổng thời gian tra cứu: ~10 phút dừng xe.
+[1. Tải bản cuối: 5'] → [2. Mở rubric 10 trang: 5'] 
+→ [3. Dò thủ công tên file & thư mục: 15'] 🔴
+→ [4. Kiểm tra link & tiêu đề: 10'] 🔴
+→ [5. Nộp lên LMS: 5']
+Tổng thời gian: 40 phút căng thẳng trước giờ G.
 ```
 
 ---
 
-### Problem Card #3 — Phân loại & điều hướng phản ánh cư dân Vinhomes
+### Problem Card #3 — Phân bổ và đối soát chi phí hóa đơn căn hộ thuê chung
 
 | Trường | Nội dung |
 |---|---|
-| Job Story | Khi nhận hàng trăm phản ánh của cư dân mỗi ngày trên ứng dụng di động, tôi muốn chuyển tiếp chính xác từng yêu cầu đến đúng tổ kỹ thuật tòa nhà, để xử lý sự cố kịp thời |
-| Actor | Nhân viên CSKH & Ban Quản lý Khu đô thị Vinhomes |
-| Thời điểm / bối cảnh | Đầu giờ sáng hoặc sau giờ làm việc, lượng phản ánh gửi về ứng dụng dồn dập |
-| Quy trình hiện tại (3–7 bước) | 1. Cư dân tạo phiếu phản ánh (ảnh + mô tả tự do) trên App Resident · 2. Nhân viên CSKH mở cổng thông tin đọc nội dung · 3. Gắn nhãn thủ công (Điện nước/An ninh/Vệ sinh/Môi trường) · 4. Chọn tòa nhà và gán cho kỹ thuật viên phụ trách · 5. Soạn tin nhắn thông báo đã tiếp nhận gửi cư dân |
-| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 2 & 3 (mất 5–8 phút/phiếu): Khối lượng phản ánh lớn, nội dung cư dân viết dài dòng hoặc bức xúc khiến nhân viên mất thời gian phân tích và dễ gán nhầm đơn vị |
-| Impact (nếu không giải thì sao) | Tồn đọng xử lý kéo dài đến 12 tiếng; cư dân bức xúc khiếu nại vượt cấp; nhân viên CSKH căng thẳng quá tải |
-| Success metric (baseline → target) | Thời gian phản hồi lần đầu giảm từ 12 tiếng xuống dưới 15 phút; độ chính xác phân loại tự động đạt > 95% |
-| Phương án không dùng AI | Form khảo sát có menu lựa chọn danh mục bắt buộc (Drop-down menu): Cư dân tự chọn phòng ban ngay khi gửi |
-| Giả thuyết về AI (nếu có) | Mô hình NLP phân loại ý định (Intent Classifier) tự động đọc mô tả và hình ảnh, phân loại mức độ khẩn cấp và tự động định tuyến phiếu đến tổ kỹ thuật |
-| Cảm nhận nhanh | Rule-based kết hợp Simple NLP Classifier |
+| Job Story | Khi nhận hóa đơn tổng tiền điện, nước và phí quản lý căn hộ chung cư vào ngày 5 hàng tháng, tôi muốn chia đều chi phí chính xác theo số ngày có mặt thực tế của từng bạn cùng phòng, để thu tiền sòng phẳng không gây xích mích |
+| Actor | Sinh viên đứng tên hợp đồng thuê căn hộ (Trưởng phòng) |
+| Thời điểm / bối cảnh | Ngày 5 đến ngày 10 hàng tháng khi ban quản lý tòa nhà gửi thông báo tiền điện nước qua ứng dụng cư dân |
+| Quy trình hiện tại (3–7 bước) | 1. Chụp ảnh thông báo tiền điện/nước từ app cư dân · 2. Mở tin nhắn Zalo hỏi từng bạn tháng qua về quê bao nhiêu ngày · 3. Mở Excel tính toán chia tiền phòng cố định và tiền điện nước theo ngày · 4. Soạn tin nhắn breakdown chi tiết từng người nợ bao nhiêu gửi vào nhóm · 5. Theo dõi ai đã chuyển khoản và nhắc người nợ |
+| Bottleneck (bước nào, mất bao nhiêu phút) | **Bước 2 & 3 (mất 20 trên tổng số 35 phút):** Bạn bè nhớ nhớ quên quên số ngày về quê, công thức Excel chia tỷ lệ dễ bị nhầm lẫn khi có người dùng thêm thiết bị (như máy lạnh bật nhiều hơn) |
+| Impact (nếu không giải thì sao) | Mất tình cảm bạn bè cùng phòng nếu tính nhầm tiền; người đứng tên hợp đồng phải tự bỏ tiền túi ra bù trước nếu có người đóng chậm |
+| Success metric (baseline → target) | Thời gian tính toán và gửi thông báo giảm từ **35 phút xuống dưới 5 phút**; **0 vụ tranh cãi hoặc khiếu nại** về tính sai số tiền |
+| Phương án không dùng AI | Dùng một template Google Sheets cố định có sẵn công thức chia đều hoặc app chia tiền như Splitwise: Đủ để giải quyết tốt bài toán |
+| Giả thuyết về AI (nếu có) | AI chỉ cần quét ảnh chụp hóa đơn (OCR) để tự động trích xuất các con số (tiền điện, số khối nước) điền thẳng vào bảng tính |
+| Cảm nhận nhanh | **No AI / Rule-based (OCR đơn giản)** |
 
 Quy trình nháp hiện tại:
 
 ```text
-[1. Cư dân gửi phản ánh: 2'] → [2. CSKH đọc nội dung: 3'] 🔴 → [3. Gắn nhãn phân loại: 3'] 🔴
-→ [4. Gán kỹ thuật viên: 2'] → [5. Gửi tin tiếp nhận: 1']
-Tổng thời gian/phiếu: 11 phút (Tích lũy tồn đọng hàng trăm giờ mỗi tuần).
+[1. Nhận thông báo tiền: 5'] → [2. Hỏi ngày ở từng người: 10'] 
+→ [3. Nhập Excel tính tỷ lệ: 12'] 🔴 
+→ [4. Soạn tin nhắn breakdown: 5'] → [5. Thu tiền & nhắc nợ: kéo dài nhiều ngày]
+Tổng thời gian tính toán: 35 phút/tháng.
 ```
 
 ---
 
 ### Card muốn pitch nhất
 
-- Card số: **Card #1 (Điều phối khẩn cấp pin xe taxi điện Xanh SM)**
-- Vì sao: Đây là bài toán có tác động vận hành thực tế cao nhất (ảnh hưởng trực tiếp tới tài sản phương tiện và an toàn giao thông), có baseline thời gian và tổn thất tiền bạc đo lường được ngay, quy trình các bước rất cụ thể, và ranh giới an toàn (bảo vệ pin nguy cấp, kiểm duyệt tin nhắn) là thử thách kỹ thuật hoàn hảo để chứng minh năng lực của AI Engineer.
-- Câu hỏi muốn nhóm phản biện: *"Liệu một tập luật Rule-based thông thường (nếu GPS < X km thì chọn trạm gần nhất) có giải quyết trọn vẹn bài toán này tốt hơn và rẻ hơn việc dùng AI hay không?"*
+- Card số: **Card #1 (Điều chỉnh CV và so khớp kỹ năng theo JD ứng tuyển thực tập)**
+- Vì sao: Đây là bài toán mang tính thời điểm sống còn đối với mọi sinh viên năm 3 và năm cuối. Nỗi đau rất thật: ai cũng từng ngồi hàng giờ trước trang Word trắng xóa, không biết viết gì để CV vừa vặn với một JD công nghệ dài ngoằng. Quy trình làm việc rất rõ ràng, thời gian lãng phí đo lường được (60 phút/CV), và giá trị của AI ở đây là giải phóng sự bế tắc ngôn ngữ (unblocking writer's block) trong khi quyền quyết định cuối cùng vẫn thuộc về sinh viên.
+- Câu hỏi muốn nhóm phản biện: *"Nếu sinh viên chỉ cần dùng một template CV chuẩn và tự sửa tay 2-3 gạch đầu dòng, liệu việc dùng AI có thực sự cần thiết hay nó chỉ tạo ra những bản CV sáo rỗng giống hệt nhau?"*
 
 ### AI đã phản biện card thế nào
 
 | Điểm yếu AI chỉ ra | Đồng ý? | Đã sửa gì |
 |---|---|---|
-| AI cho rằng baseline 15 phút chỉ là ước tính chủ quan | Đồng ý | Tôi đã bổ sung số liệu thực tế từ trung tâm điều vận: tính trung bình trên ~80 cuộc gọi khẩn cấp mỗi ngày tại Hà Nội và TP.HCM, trong đó bước 3 và bước 4 chiếm tới 66% thời gian |
-| AI gợi ý xây dựng Agent tự động gửi tin nhắn điều hướng thẳng cho tài xế mà không cần người duyệt | Không đồng ý | Tôi kiên quyết bác bỏ và thiết lập ranh giới cứng: Bắt buộc phải có điều phối viên con người kiểm duyệt (Human-In-The-Loop) với thẻ bắt buộc `[DRAFT_ONLY]` để tránh rủi ro AI chỉ nhầm trạm đang hỏng khiến xe chết máy giữa đường |
-| AI cảnh báo về tình huống xe dưới 5% pin nếu chỉ trạm xa quá sẽ chết máy | Đồng ý hoàn toàn | Đã đưa ngay vào ranh giới an toàn: Nếu pin < 5%, AI bị cấm chỉ trạm sạc > 5km và bắt buộc phải chuyển sang hành động gọi xe sạc cứu hộ di động `{"action": "dispatch_mobile_charger"}` |
+| AI cảnh báo nguy cơ sinh viên sẽ lạm dụng AI để "bịa" ra kinh nghiệm làm việc hoặc kỹ năng không có thật để vượt qua ATS | Đồng ý hoàn toàn | Tôi đã bổ sung ngay vào phần **Ranh giới (Operational Boundary)**: AI tuyệt đối không được tự ý thêm công nghệ hay kỹ năng mới mà sinh viên chưa từng cung cấp; AI chỉ được phép tối ưu hóa cách hành văn và làm nổi bật từ các dự án môn học THẬT mà sinh viên đã tải lên |
+| AI cho rằng JD thường có rất nhiều yêu cầu rườm rà (nice-to-have), nếu cố nhét hết vào CV sẽ làm CV bị loãng và dài quá 1 trang | Đồng ý | Tôi đã sửa quy trình: Bổ sung bước phân loại từ khóa thành 2 nhóm: Kỹ năng cốt lõi (Core/Must-have) và Kỹ năng cộng điểm (Bonus/Nice-to-have). Bản nháp của AI chỉ tập trung khớp các từ khóa cốt lõi để giữ CV trong độ dài 1 trang chuẩn |
+| AI gợi ý xây dựng tính năng tự động gửi email ứng tuyển hàng loạt (Auto-apply) đến các nhà tuyển dụng | Không đồng ý | Tôi kiên quyết bác bỏ ý tưởng này vì đây là hành vi spam thiếu chuyên nghiệp. Tôi giữ nguyên nguyên tắc **Human-In-The-Loop**: Sinh viên bắt buộc phải tự đọc lại từng câu chữ, kiểm tra độ chính xác rồi mới tự tay bấm nộp hồ sơ |
 
 ---
 
 ## 4. Tôi đã tham gia phần nào (CP3 → CP7)
 
+*(Sẽ điền chi tiết sau khi nhóm tổ chức thảo luận và hội tụ từ CP3 đến CP7)*
+
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | Pitch Card #1 (Điều phối khẩn cấp pin Xanh SM) trước nhóm trong 2 phút | Bài toán được cả nhóm đánh giá cao nhất và đưa vào shortlist |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: Hỏi Đức về bài CSKH Vinhomes: *"Nếu cư dân viết câu bức xúc phức tạp có nhiều vấn đề cùng lúc, rule-based có bị quá tải không?"* | Đức nhận ra cần thêm bước phân loại đa nhãn (multi-label) và đồng ý bài này thiên về NLP truyền thống hơn là AI tạo sinh |
-| Nhận phản biện | Câu hỏi tôi nhận được: Nam hỏi: *"Nếu chỉ cần tính khoảng cách ngắn nhất, thuật toán Haversine bình thường làm được, cần gì LLM?"* | Tôi đã sửa gì: Giải thích rõ LLM cần thiết để đọc hiểu tình huống khẩn cấp từ mô tả tự do của tài xế, tổng hợp thông số pin/cổng sạc, và tự động soạn thảo tin nhắn chỉ dẫn có giọng điệu trấn an, kèm mẹo ngắt phụ tải điện gửi tài xế |
-| Gom cluster / cây OST | Chủ trì gom 12 candidate của cả nhóm thành 3 cụm (Cluster A, B, C) và vẽ cây OST | Cây OST có đúng 1 outcome ở gốc, loại bỏ triệt để các solution trá hình |
-| Chọn candidate problem | Cùng nhóm chấm điểm 7 tiêu chí cho 3 bài toán shortlist | Thống nhất chọn Card #1 với điểm số cao nhất (34/35 điểm) |
-| Kiểm chứng / research | Tham gia phỏng vấn 1 tài xế taxi Xanh SM thực tế và nghiên cứu giải pháp của Tesla/Uber | Nhóm phát hiện ra tài xế rất sợ bị chỉ vào trạm sạc có cổng không tương thích |
-| Quy trình nhóm | Thiết kế sơ đồ Before/After và xuất file ảnh đồ họa `04-workflow-diagram.png` | Cả nhóm thống nhất quy trình tương lai cắt giảm từ 15 phút xuống < 3 phút |
-| Problem Statement | Soạn thảo Problem Statement v0 và nâng cấp lên v1 có ranh giới cấm rõ ràng | Bản v1 có đầy đủ 4 tiêu chí đánh giá nghiêm ngặt cho bước AI |
-| Mức can thiệp AI | Phân tích ma trận độ mơ hồ vs độ phức tạp, đề xuất mức Workflow Co-pilot | Nhóm thống nhất không chọn Agent tự trị vì rủi ro an toàn phương tiện |
-| Quyết định | Tổng hợp đánh giá 4 rủi ro, xây dựng kế hoạch pilot 2 tuần và ngưỡng dừng | Nhóm đưa ra quyết định "Go, phạm vi nhỏ" có căn cứ vững chắc |
+| Pitch Problem Card | Chuẩn bị sẵn sàng Card #1 (Tối ưu CV theo JD) kèm câu hỏi phản biện để pitch | Sẵn sàng trình bày trong 2 phút tại CP3 |
+| Phản biện bài của bạn khác | Chuẩn bị sẵn góc nhìn để hỏi xoáy vào tính khả thi và bằng chứng thật | Sẽ ghi lại tại CP3 |
+| Nhận phản biện | Ghi nhận câu hỏi phản biện từ các thành viên trong nhóm | Sẽ ghi lại tại CP3 |
+| Gom cluster / cây OST | Tham gia phân loại candidate và xây dựng cây Opportunity Solution Tree | Sẽ thực hiện tại CP3 |
+| Chọn candidate problem | Cùng nhóm chấm điểm 7 tiêu chí để hội tụ về 1 bài toán duy nhất | Sẽ thực hiện tại CP3 |
+| Kiểm chứng / research | Phỏng vấn bạn học thực tế và tìm kiếm các công cụ tương tự trên thị trường | Sẽ thực hiện tại CP4 |
+| Quy trình nhóm | Tham gia vẽ sơ đồ quy trình trước và sau khi có sự can thiệp của công nghệ | Sẽ thực hiện tại CP5 |
+| Problem Statement | Soạn thảo Problem Statement v0 và hoàn thiện v1 có ranh giới rõ ràng | Sẽ thực hiện tại CP5 & CP6 |
+| Mức can thiệp AI | Đánh giá 4 mức No AI / Rule / Workflow / Agent và lập AI Canvas | Sẽ thực hiện tại CP6 |
+| Quyết định | Tham gia đánh giá 4 rủi ro và xác định điều kiện thử nghiệm pilot | Sẽ thực hiện tại CP6 |
 
 ---
 
@@ -164,46 +173,45 @@ Tổng thời gian/phiếu: 11 phút (Tích lũy tồn đọng hàng trăm giờ
 
 | Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| CP1 Scan | Brainstorm thêm các điểm nghẽn vận hành tại Vingroup | Gợi ý góc nhìn về quản lý vận tải và khiếu nại cước sạc | Đề xuất ý tưởng chung chung ("AI quản lý toàn bộ xe từ xa") không có quy trình thật | Bỏ qua ý kiến viển vông, chỉ giữ lại các vấn đề có quy trình và con số đo lường được |
-| CP2 Problem Card | Đóng vai Giám đốc Vận hành khó tính phản biện Card #1 | Chỉ ra lỗ hổng nếu xe pin quá cạn (< 5%) mà AI vẫn cố chỉ trạm xa | Đề xuất bỏ bước duyệt của con người để "tối ưu tốc độ tối đa" | Giữ nguyên bước duyệt HITL, thiết lập ranh giới bắt buộc thẻ `[DRAFT_ONLY]` |
-| CP4 Research | Tìm kiếm các giải pháp điều vận trạm sạc xe điện trên thế giới | Giới thiệu hệ thống Trip Planner của Tesla và Uber Green Dispatch | Dẫn một số link bị lỗi 404 hoặc thông tin tính năng phiên bản cũ | Tự truy cập và đối chiếu tài liệu chính thức từ Tesla Developer Portal và Uber Engineering Blog |
-| CP5 Quy trình | Chuyển đổi mô tả quy trình sang mã Mermaid | Tạo khung sơ đồ trực quan rất nhanh | Gộp bước tra cứu trạm sạc và bước soạn thảo thành một bước chung | Tách riêng hai bước vì đây là hai điểm nghẽn có bản chất thao tác khác nhau |
-| CP5–6 Problem Statement | Phản biện tính chặt chẽ của các chỉ số thành công | Nhắc nhở thêm chỉ số an toàn (tỉ lệ xe chết máy) thay vì chỉ đo mỗi thời gian | Cố gắng viết lại Problem Statement theo hướng giải pháp tính năng | Giữ vững nguyên tắc Problem Statement chuẩn 6 trường, không để giải pháp lọt vào |
-| CP6 Mức can thiệp / quyết định | So sánh giữa Workflow và Agent tự trị | Làm rõ các rủi ro kỹ thuật khi hệ thống Agent gặp vòng lặp vô hạn (Infinite Loop) | Khuyên nên dùng Multi-Agent để giải pháp "hiện đại hơn" | Bác bỏ lời khuyên, kiên quyết chọn Workflow vì phương án đơn giản nhất đủ giải quyết bài toán |
+| CP1 Scan | Brainstorm thêm các vấn đề xoay quanh đời sống sinh viên thuê trọ và sinh hoạt | Gợi ý ý tưởng về việc báo lỗi hỏng hóc đồ trọ và chia tiền hóa đơn | Đề xuất ý tưởng viển vông: "AI tự động gửi CV hàng loạt 100 công ty" | Bỏ qua ý tưởng spam, chỉ giữ lại các vấn đề có quy trình thủ công cụ thể và đo lường được thời gian |
+| CP2 Problem Card | Đóng vai nhà tuyển dụng khó tính và chuyên gia hướng nghiệp phản biện Card #1 | Chỉ ra nguy cơ sinh viên dùng AI "bịa đặt" kinh nghiệm để qua mặt ATS | Khuyên nên tự động hóa toàn bộ việc nộp CV mà không cần người duyệt | Thiết lập ranh giới cứng: Bắt buộc sinh viên tự duyệt từng từ, AI chỉ được viết lại từ các dự án môn học có thật |
+| CP4 Research | (Sẽ điền sau khi thực hiện CP4) | | | |
+| CP5 Quy trình | (Sẽ điền sau khi thực hiện CP5) | | | |
+| CP5–6 Problem Statement | (Sẽ điền sau khi thực hiện CP5–6) | | | |
+| CP6 Mức can thiệp / quyết định | (Sẽ điền sau khi thực hiện CP6) | | | |
 
 ---
 
 ## 6. Reflection (CP7)
 
-*(Bài tự luận phản ánh trải nghiệm cá nhân chân thực — 320 từ, không sử dụng AI viết thay)*
+*(Phần này sẽ được hoàn thành sau khi kết thúc buổi làm việc nhóm từ CP3 đến CP6, phản ánh trải nghiệm cá nhân thật với tối thiểu 200 từ).*
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**  
-Khi nghe Đức trình bày về bài toán khiếu nại của cư dân Vinhomes và Nam chia sẻ về bài toán tổng hợp hồ sơ bệnh án Vinmec, tôi nhận ra một điểm chung: hầu hết chúng ta khi mới tiếp cận đều có xu hướng nhìn thấy ngay giải pháp ("làm một con chatbot", "dùng agent tự động"). Nhưng khi bóc tách từng bước trong quy trình thực tế, tôi mới hiểu rằng nhiều bài toán chỉ cần một bộ phân loại bằng luật (Rule-based) hoặc một template chuẩn là đã giải quyết được 70% nỗi đau mà không cần tốn chi phí vận hành mô hình ngôn ngữ lớn đắt đỏ.
+(Sẽ điền sau buổi pitch CP3)
 
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**  
-Có. Ở giai đoạn đầu của CP3, khi thảo luận về bài toán trạm sạc, cả nhóm đã hào hứng bàn về việc "xây dựng một Agent tự động đặt chỗ và lái xe đến trạm". Nhóm chỉ nhận ra mình đang bị "solution-first" khi nhìn vào cây Opportunity Solution Tree (OST) và thấy nhánh giải pháp bị gạch bỏ đỏ rực. Nhóm đã lập tức dừng lại, quay về với câu hỏi cốt lõi: *"Nỗi đau thật sự của người điều phối lúc này là gì?"* Đó chính là việc phải mở 3 màn hình rời rạc để tìm trạm trống và mất 5 phút gõ tin nhắn tay. Nhờ đó nhóm đã quay lại đúng trọng tâm bài toán.
+(Sẽ điền sau thảo luận CP3–CP5)
 
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**  
-Tôi đã hoàn toàn đổi ý về cách xử lý các trường hợp pin nguy cấp. Ban đầu, tôi thiết kế prompt cho AI cố gắng tìm kiếm trạm sạc gần nhất bằng mọi giá. Nhưng khi được Nam phản biện rằng: *"Nếu xe chỉ còn 2% pin, chạy điều hòa và gặp đèn đỏ thì chỉ đi được tối đa 2km, chỉ trạm sạc xa là giết tài xế"*, tôi lập tức nhận ra đây là rủi ro vật lý có thật. Tôi đã thay đổi thiết kế: thay vì tìm trạm sạc, hệ thống bắt buộc kích hoạt lệnh điều xe cứu hộ di động khẩn cấp `dispatch_mobile_charger` khi pin < 5%.
+(Sẽ điền sau khi nhận phản biện nhóm)
 
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**  
-Tôi rất bất ngờ khi phỏng vấn nhanh một bác tài xế taxi Xanh SM gần cổng trường: Bác chia sẻ rằng bác không sợ hết pin bằng sợ *"được chỉ đến một trạm sạc mà cổng sạc đó chỉ dành cho xe lớn hoặc trụ sạc đang bị xe cá nhân đỗ chắn chỗ"*. Điều này chứng minh rằng một thuật toán tính khoảng cách địa lý đơn thuần là vô nghĩa nếu không có dữ liệu thời gian thực về trạng thái và loại cổng của trụ sạc.
+(Sẽ điền sau kiểm chứng CP4)
 
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**  
-Điều khó nhất là viết phần **Operational Boundary (Ranh giới vận hành)**. Rất dễ rơi vào cái bẫy mô tả chung chung như *"AI phải trả lời chính xác và lịch sự"*. Phải mất nhiều lần chỉnh sửa, nhóm mới lượng hóa được ranh giới thành các điều cấm tuyệt đối: cấm gửi tin trực tiếp khi chưa có thẻ `[DRAFT_ONLY]`, cấm đề xuất trạm > 5km khi pin < 5%.
+(Sẽ điền sau khi chốt Problem Statement v1)
 
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**  
-Nếu làm lại, tôi sẽ đề xuất nhóm dành nhiều thời gian hơn để khảo sát trực tiếp tại trung tâm điều vận thực tế thay vì chỉ phỏng vấn tài xế thực địa. Tôi sẽ phản biện mạnh hơn về việc thiết lập các phương án dự phòng (Fallback) khi hệ thống viễn thám ô tô bị mất kết nối mạng di động 4G.
+(Sẽ điền sau khi kết thúc CP6)
 
-**6.7. Hiểu bài (Chuỗi logic từ Problem đến Quyết định):**  
-Bài toán bắt đầu từ **Problem**: Điều phối viên Xanh SM mất 15 phút xử lý thủ công mỗi ca taxi điện cạn pin, gây nguy cơ chết máy trên đường. **Quy trình** bộc lộ điểm nghẽn tại bước tra cứu trạm sạc trống và gõ tin nhắn hướng dẫn (chiếm 10 phút). **Success Metric** được đặt ra là cắt giảm thời gian xử lý xuống dưới 3 phút và triệt tiêu 100% rủi ro xe chết máy. Để đảm bảo an toàn, **Operational Boundary** quy định nghiêm ngặt: AI chỉ được tạo bản nháp `[DRAFT_ONLY]` cho người duyệt và cấm gợi ý trạm sạc > 5km khi pin < 5% (phải chuyển sang điều xe cứu hộ di động). Do quy trình có cấu trúc cố định và rủi ro vật lý cao, **Mức can thiệp AI** tối ưu là **Workflow Co-pilot** (kết hợp Rule lấy dữ liệu + LLM tạo nháp) chứ không dùng Agent tự trị. Cuối cùng, **Quyết định** của nhóm là **Go, phạm vi nhỏ** thông qua đợt thử nghiệm pilot 2 tuần có người giám sát chặt chẽ.
+**6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.  
+(Sẽ điền khi kết thúc bài lab)
 
 ---
 
 ## 7. Tài liệu tham khảo
 
-- VinFast Auto Official Technical Specifications: Hệ thống cổng sạc chuẩn CCS2 và mạng lưới trạm sạc toàn quốc (https://vinfastauto.com/vn_vi/tram-sac-xe-dien-vinfast).
-- Design Council UK: Mô hình Double Diamond trong thiết kế sản phẩm công nghệ (https://www.designcouncil.org.uk/our-resources/the-double-diamond/).
-- Rob Fitzpatrick: The Mom Test — Cách phỏng vấn khách hàng tìm ra sự thật mà không nghe lời nói dối lịch sự.
-- Google People + AI Research (PAIR) Guidebook: Nguyên tắc thiết kế AI hỗ trợ con người (Augment vs Automate) và xử lý lỗi (https://pair.withgoogle.com/).
-
+- Rob Fitzpatrick: The Mom Test — How to talk to customers and learn if your business is a good idea when everyone is lying to you.
+- Design Council UK: The Double Diamond design methodology (Discover, Define, Develop, Deliver).
+- Harvard University Mignone Center for Career Success: Resumes & Cover Letters Guide (STAR method formatting).
+- Google People + AI Research (PAIR) Guidebook: Designing human-centered AI products (https://pair.withgoogle.com/).
