@@ -46,107 +46,108 @@ Sau khi tự mình liệt kê 8 vấn đề từ chính cuộc sống hằng ng�
 
 | Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
 |---:|---|---|---|
-| 1 | Điều chỉnh CV và so khớp kỹ năng theo JD ứng tuyển thực tập (#1) | Nhu cầu cấp thiết của mọi sinh viên năm 3–4, thời gian làm thủ công rất lâu (45–60 phút/lần), bottleneck rõ ở bước viết lại câu chữ mô tả dự án | Liệu AI có nguy cơ "bịa" thêm kỹ năng mà sinh viên không có hay không? |
-| 2 | Rà soát bài nộp theo checklist rubric môn học trước 23h59 (#4) | Tần suất xuất hiện hàng tuần, quy tắc chấm thi rất khắt khe (sai tên file là bị trừ 5 điểm), sinh viên nào cũng lo sợ | Rubric mỗi môn học lại trình bày một kiểu (PDF, Word, ảnh chụp) nên khó chuẩn hóa định dạng |
-| 3 | Phân bổ và đối soát chi phí hóa đơn điện/nước căn hộ thuê chung (#8) | Nỗi đau lặp lại hằng tháng của hàng triệu sinh viên ở trọ, dễ gây bất hòa giữa bạn bè cùng phòng nếu tính sai | Bài này có thể giải quyết tốt bằng một file Google Sheets có sẵn công thức (No AI) |
+| 1 | Tổng hợp câu hỏi phỏng vấn tình huống bám sát JD thực tập (#3) | Nhu cầu cực kỳ cấp thiết của sinh viên năm 3–4, thời gian chuẩn bị thủ công rất lâu (90–105 phút), bottleneck rõ ở bước tìm kiếm câu hỏi tình huống phù hợp với tech-stack/yêu cầu của công ty | Liệu sinh viên có bị tâm lý học tủ các câu trả lời máy móc mà thiếu đi sự tự nhiên trong phỏng vấn? |
+| 2 | Tìm link nộp bài và thông báo deadline bị trôi trong Zalo/Discord lớp (#6) | Nỗi đau kinh niên của sinh viên mọi khóa học, tin nhắn chat thông thường làm trôi mất thông báo quan trọng của giảng viên, dẫn đến trễ hạn nộp bài | Các nhóm chat thường dùng tiếng lóng (slang), viết tắt hoặc gửi ảnh chụp màn hình, AI có trích xuất chính xác 100% không? |
+| 3 | Theo dõi tiến độ task làm việc nhóm tránh dồn deadline phút chót (#7) | Bài toán làm việc nhóm gây ức chế nhất thời sinh viên ("nạn gánh team"), quy trình lộn xộn, tổn thất thời gian và rạn nứt tình cảm bạn bè | Bản chất là vấn đề ý thức và kỷ luật cá nhân, liệu công cụ công nghệ có thay đổi được hành vi trì hoãn? |
 
 ---
 
-### Problem Card #1 — Điều chỉnh CV theo JD ứng tuyển thực tập (Card chọn để Pitch)
+### Problem Card #1 — Tổng hợp câu hỏi phỏng vấn tình huống bám sát JD thực tập (Card chọn để Pitch)
 
 | Trường | Nội dung |
 |---|---|
-| Job Story | Khi chuẩn bị nộp CV ứng tuyển vị trí thực tập cụ thể, tôi muốn điều chỉnh các gạch đầu dòng mô tả dự án học tập cho khớp với từ khóa trong bản mô tả công việc (JD), để hồ sơ không bị loại ngay từ vòng lọc tự động (ATS) |
-| Actor | Sinh viên đại học năm 3 / năm 4 đang trong quá trình tìm kiếm cơ hội thực tập đầu tiên |
-| Thời điểm / bối cảnh | Buổi tối hoặc cuối tuần, chuẩn bị nộp hồ sơ cho 3–5 công ty công nghệ/doanh nghiệp có mở đợt tuyển thực tập sinh |
-| Quy trình hiện tại (3–7 bước) | 1. Đọc kỹ JD của công ty và gạch chân các kỹ năng yêu cầu · 2. Mở file CV hiện tại của mình · 3. So sánh tìm xem dự án học tập nào của mình liên quan nhất đến JD · 4. Ngồi gõ lại từng gạch đầu dòng (bullet points) để lồng ghép các từ khóa kỹ thuật của JD · 5. Tự format lại căn lề và xuất ra file PDF |
-| Bottleneck (bước nào, mất bao nhiêu phút) | **Bước 3 & 4 (mất 30 trên tổng số 60 phút/lần):** Thường bị bí từ ngữ (writer's block), không biết cách diễn đạt dự án môn học sao cho chuyên nghiệp và đúng ngữ cảnh mà nhà tuyển dụng đang tìm kiếm |
-| Impact (nếu không giải thì sao) | Mất 15–20 tiếng mỗi tháng chỉ để sửa CV; nếu nộp CV chung chung thì tỷ lệ bị loại từ vòng duyệt hồ sơ lên tới 85%; gây tâm lý mệt mỏi, nản chí khi xin việc |
-| Success metric (baseline → target) | Thời gian chuẩn bị CV cho 1 công ty giảm từ **60 phút xuống dưới 15 phút**; tỷ lệ từ khóa cốt lõi của JD xuất hiện chuẩn xác trong CV đạt **> 85%**; **0 thông tin bịa đặt** |
-| Phương án không dùng AI | Sử dụng mẫu CV chuẩn (Harvard CV Template) + danh sách từ khóa động từ hành động (Action Verbs): Giảm được thời gian format nhưng vẫn mất 30 phút ngồi vắt óc viết lại từng câu |
-| Giả thuyết về AI (nếu có) | AI Co-pilot đóng vai trò người rà soát: đọc JD và đọc phần tóm tắt dự án của sinh viên, gợi ý cách viết lại các gạch đầu dòng súc tích hơn theo công thức STAR (Situation, Task, Action, Result), làm nổi bật từ khóa kỹ năng mà sinh viên thực sự có |
-| Cảm nhận nhanh | **Workflow** (Quy trình cố định từng bước, AI hỗ trợ khâu diễn đạt ngôn ngữ, sinh viên bắt buộc phải tự kiểm tra tính xác thực trước khi nộp) |
+| Job Story | Khi nhận được lời mời phỏng vấn kỹ thuật/tình huống vào ngày mai, tôi muốn tổng hợp các câu hỏi phỏng vấn thường gặp dựa trên chính các yêu cầu trong JD, để luyện tập câu trả lời có trọng tâm mà không bị bỡ ngỡ |
+| Actor | Sinh viên năm 3 / năm 4 đang chuẩn bị cho các vòng phỏng vấn thực tập hoặc việc làm đầu tiên |
+| Thời điểm / bối cảnh | Đêm trước ngày phỏng vấn (khoảng 20h–23h), sinh viên vừa nhận được email mời phỏng vấn và đang rất hồi hộp, căng thẳng |
+| Quy trình hiện tại (3–7 bước) | 1. Mở lại bản mô tả công việc (JD) của công ty và đọc lại toàn bộ · 2. Gạch chân các kỹ năng kỹ thuật và trách nhiệm công việc cốt lõi · 3. Lướt Glassdoor, Reddit, các hội nhóm Facebook tìm xem công ty này hay hỏi gì · 4. Vắt óc tự nghĩ các câu hỏi tình huống phỏng vấn và nháp câu trả lời theo cấu trúc STAR · 5. Tự đọc nhẩm hoặc luyện nói trước gương |
+| Bottleneck (bước nào, mất bao nhiêu phút) | **Bước 3 & 4 (mất 65 trên tổng số 105 phút):** Tìm kiếm thông tin rời rạc trên mạng thường nhận được các câu hỏi quá chung chung hoặc lỗi thời; việc tự nghĩ ra câu hỏi tình huống sát với JD mất rất nhiều thời gian |
+| Impact (nếu không giải thì sao) | Mất 90–120 phút chuẩn bị cho mỗi cuộc phỏng vấn; học tủ lan man câu hỏi không đúng trọng tâm; vào phòng phỏng vấn bị "khớp" và trượt cơ hội thực tập quý giá |
+| Success metric (baseline → target) | Thời gian chuẩn bị bộ câu hỏi rút ngắn từ **105 phút xuống dưới 15 phút**; **100% câu hỏi bám sát** đúng tech-stack và tình huống thực tế của JD; sinh viên tự tin hơn |
+| Phương án không dùng AI | Một danh sách 50 câu hỏi phỏng vấn mẫu (General Question Bank) in sẵn: Sinh viên tự lọc câu nào liên quan để học |
+| Giả thuyết về AI (nếu có) | AI Co-pilot đọc JD, đối chiếu với hồ sơ sinh viên, đóng vai người phỏng vấn khó tính sinh ra 5 câu hỏi kỹ thuật chuyên sâu và 3 câu hỏi tình huống ứng xử (Behavioral) sát sườn, kèm gợi ý các ý chính cần trả lời |
+| Cảm nhận nhanh | **Workflow** (Quy trình cố định, AI đóng vai trò mô phỏng và gợi ý câu hỏi, sinh viên tự mình chuẩn bị nội dung câu trả lời thật) |
 
 Quy trình nháp hiện tại:
 
 ```text
-HIỆN TẠI — 60 phút cho 1 bộ hồ sơ
+HIỆN TẠI — 105 phút chuẩn bị phỏng vấn
 
-[1. Đọc JD & gạch chân: 15'] → [2. Mở CV hiện tại: 5'] 
-→ [3. So khớp tìm điểm tương đồng: 15'] 🔴 BOTTLENECK
-→ [4. Viết lại các bullet point theo từ khóa JD: 20'] 🔴 BOTTLENECK
-→ [5. Format lại & xuất PDF: 5']
-Tổng thời gian: 60 phút/lần nộp. (🔴 = Bước nghẽn mất 35 phút)
+[1. Đọc lại JD: 10'] → [2. Gạch chân yêu cầu: 10'] 
+→ [3. Lướt Glassdoor/mạng tìm câu hỏi: 40'] 🔴 BOTTLENECK
+→ [4. Tự nghĩ câu hỏi & nháp câu trả lời STAR: 25'] 🔴 BOTTLENECK
+→ [5. Luyện nói trước gương: 20']
+Tổng thời gian: 105 phút căng thẳng trong đêm trước ngày phỏng vấn. (🔴 = Bước nghẽn mất 65 phút)
 ```
 
 ---
 
-### Problem Card #2 — Rà soát bài nộp theo checklist rubric môn học trước 23h59
+### Problem Card #2 — Tìm link nộp bài và thông báo deadline bị trôi trong Zalo/Discord lớp
 
 | Trường | Nội dung |
 |---|---|
-| Job Story | Khi chuẩn bị nộp bài tập lớn/lab trước deadline 23h59, tôi muốn đối chiếu toàn bộ các quy định đặt tên file, cấu trúc thư mục và tiêu chí rubric, để không bị trừ 5–10 điểm vì lỗi format ngớ ngẩn |
-| Actor | Sinh viên / Nhóm trưởng phụ trách nộp bài lab, bài tập lớn trên LMS/GitHub |
-| Thời điểm / bối cảnh | Lúc 22h–23h30 đêm hạn chót nộp bài, cả nhóm vừa hoàn thiện xong nội dung và đang rất mệt mỏi, vội vã nộp |
-| Quy trình hiện tại (3–7 bước) | 1. Tải bản hoàn thiện cuối cùng từ Git hoặc Google Drive · 2. Mở file PDF hướng dẫn và Rubric của môn học · 3. Dò thủ công từng file xem đã đúng tên `MSSV_HoTen.md` chưa, tên repo đúng mẫu chưa · 4. Kiểm tra các heading bắt buộc và link tài liệu · 5. Nén file / dán link nộp lên hệ thống LMS |
-| Bottleneck (bước nào, mất bao nhiêu phút) | **Bước 3 & 4 (mất 25 trên tổng số 40 phút):** Tài liệu rubric thường dài 8–10 trang với hàng chục điều kiện nhỏ; sinh viên lúc mệt rất dễ hoa mắt bỏ sót một quy định ẩn |
-| Impact (nếu không giải thì sao) | Bài làm nội dung rất tốt nhưng bị trừ oan từ 5–15% điểm chỉ vì sai tên file hoặc thiếu 1 tiêu đề quy định; nhóm trưởng bị áp lực trách nhiệm rất lớn |
-| Success metric (baseline → target) | Thời gian kiểm tra rà soát giảm từ **40 phút xuống dưới 8 phút**; tỷ lệ bài nộp bị trừ điểm quy cách format **giảm về 0%** |
-| Phương án không dùng AI | Một bảng checklist in sẵn bằng giấy hoặc checklist trên Google Keep: Sinh viên tích chọn từng mục thủ công |
-| Giả thuyết về AI (nếu có) | Một đoạn script Python đơn giản (Rule-based) hoặc AI kiểm tra văn bản đối chiếu cấu trúc thư mục với bản mô tả rubric và in ra báo cáo các mục còn thiếu |
-| Cảm nhận nhanh | **Rule-based** (Bài toán này hoàn toàn giải quyết được bằng Rule kiểm tra tên file/folder, không nhất thiết phải dùng AI tạo sinh phức tạp) |
+| Job Story | Khi giảng viên và ban cán sự lớp thông báo dồn dập trong nhóm Zalo/Discord môn học, tôi muốn tìm lại được đúng đường link nộp bài và thời hạn chốt, để không bị nộp muộn do trôi tin nhắn |
+| Actor | Sinh viên trong lớp học phần đại học |
+| Thời điểm / bối cảnh | 1–2 ngày trước hạn chót nộp bài tập, nhóm chat lớp đang có hàng trăm tin nhắn thảo luận bài học, đùa giỡn, hỏi bài làm trôi mất thông báo chính thức |
+| Quy trình hiện tại (3–7 bước) | 1. Mở ứng dụng Zalo / Discord của lớp học phần · 2. Gõ từ khóa tìm kiếm trong ô search (ví dụ: 'link', 'nộp bài', 'deadline') · 3. Cuộn ngược đọc hàng chục tin nhắn xung quanh để xác nhận link này là của bài tập nào và hạn chốt là khi nào · 4. Nhắn tin hỏi riêng bạn bè hoặc ban cán sự để xác minh lại cho chắc ăn · 5. Lưu lại link vào bookmark hoặc ghi chú điện thoại |
+| Bottleneck (bước nào, mất bao nhiêu phút) | **Bước 3 & 4 (mất 15 trên tổng số 22 phút):** Tìm kiếm của Zalo chỉ lọc theo từ khóa chính xác, không hiểu ngữ cảnh; việc đọc tin nhắn trôi và chờ bạn bè trả lời xác nhận rất mất thời gian |
+| Impact (nếu không giải thì sao) | Mất tập trung; trung bình có 2–3 sinh viên mỗi kỳ bị nộp nhầm link bài tập cũ hoặc nộp muộn giờ bị trừ điểm chuyên cần / điểm 0; ban cán sự lớp mệt mỏi vì bị hỏi đi hỏi lại cùng 1 câu hỏi |
+| Success metric (baseline → target) | Thời gian tìm đúng link và deadline giảm từ **22 phút xuống dưới 30 giây**; độ chính xác xác định bài tập và deadline đạt **100%**; 0 trường hợp nộp nhầm link |
+| Phương án không dùng AI | Ghim tin nhắn (Pin message) quan trọng lên đầu nhóm chat hoặc tạo một kênh Discord chỉ đọc `#thong-bao-nop-bai` cho giảng viên |
+| Giả thuyết về AI (nếu có) | Bot tự động đọc các tin nhắn dài của giảng viên, trích xuất thực thể có cấu trúc: Tên môn học, Tên bài lab, Link nộp bài, Hạn chót (Deadline) và tự động ghim vào lịch học sinh viên |
+| Cảm nhận nhanh | **Rule-based kết hợp Simple NLP / NER (Trích xuất thực thể)** |
 
 Quy trình nháp hiện tại:
 
 ```text
-[1. Tải bản cuối: 5'] → [2. Mở rubric 10 trang: 5'] 
-→ [3. Dò thủ công tên file & thư mục: 15'] 🔴
-→ [4. Kiểm tra link & tiêu đề: 10'] 🔴
-→ [5. Nộp lên LMS: 5']
-Tổng thời gian: 40 phút căng thẳng trước giờ G.
+[1. Mở nhóm chat Zalo/Discord: 2'] → [2. Gõ tìm kiếm từ khóa: 3'] 
+→ [3. Cuộn đọc tin trôi xác định bài: 10'] 🔴
+→ [4. Nhắn tin hỏi bạn bè xác minh: 5'] 🔴
+→ [5. Lưu link nộp bài: 2']
+Tổng thời gian: 22 phút hoang mang trước giờ nộp bài.
 ```
 
 ---
 
-### Problem Card #3 — Phân bổ và đối soát chi phí hóa đơn căn hộ thuê chung
+### Problem Card #3 — Theo dõi tiến độ task làm việc nhóm tránh dồn deadline phút chót
 
 | Trường | Nội dung |
 |---|---|
-| Job Story | Khi nhận hóa đơn tổng tiền điện, nước và phí quản lý căn hộ chung cư vào ngày 5 hàng tháng, tôi muốn chia đều chi phí chính xác theo số ngày có mặt thực tế của từng bạn cùng phòng, để thu tiền sòng phẳng không gây xích mích |
-| Actor | Sinh viên đứng tên hợp đồng thuê căn hộ (Trưởng phòng) |
-| Thời điểm / bối cảnh | Ngày 5 đến ngày 10 hàng tháng khi ban quản lý tòa nhà gửi thông báo tiền điện nước qua ứng dụng cư dân |
-| Quy trình hiện tại (3–7 bước) | 1. Chụp ảnh thông báo tiền điện/nước từ app cư dân · 2. Mở tin nhắn Zalo hỏi từng bạn tháng qua về quê bao nhiêu ngày · 3. Mở Excel tính toán chia tiền phòng cố định và tiền điện nước theo ngày · 4. Soạn tin nhắn breakdown chi tiết từng người nợ bao nhiêu gửi vào nhóm · 5. Theo dõi ai đã chuyển khoản và nhắc người nợ |
-| Bottleneck (bước nào, mất bao nhiêu phút) | **Bước 2 & 3 (mất 20 trên tổng số 35 phút):** Bạn bè nhớ nhớ quên quên số ngày về quê, công thức Excel chia tỷ lệ dễ bị nhầm lẫn khi có người dùng thêm thiết bị (như máy lạnh bật nhiều hơn) |
-| Impact (nếu không giải thì sao) | Mất tình cảm bạn bè cùng phòng nếu tính nhầm tiền; người đứng tên hợp đồng phải tự bỏ tiền túi ra bù trước nếu có người đóng chậm |
-| Success metric (baseline → target) | Thời gian tính toán và gửi thông báo giảm từ **35 phút xuống dưới 5 phút**; **0 vụ tranh cãi hoặc khiếu nại** về tính sai số tiền |
-| Phương án không dùng AI | Dùng một template Google Sheets cố định có sẵn công thức chia đều hoặc app chia tiền như Splitwise: Đủ để giải quyết tốt bài toán |
-| Giả thuyết về AI (nếu có) | AI chỉ cần quét ảnh chụp hóa đơn (OCR) để tự động trích xuất các con số (tiền điện, số khối nước) điền thẳng vào bảng tính |
-| Cảm nhận nhanh | **No AI / Rule-based (OCR đơn giản)** |
+| Job Story | Khi làm việc nhóm 4 người trong bài tập lớn, tôi muốn theo dõi rõ ràng bạn nào đang làm phần việc nào và tiến độ đến đâu, để không bị dồn toàn bộ bài vào đêm cuối cùng trước hạn nộp |
+| Actor | Nhóm trưởng (hoặc sinh viên phụ trách tổng hợp bài tập nhóm) |
+| Thời điểm / bối cảnh | 3–5 ngày trước hạn chót nộp bài tập lớn/tiểu luận, các thành viên bắt đầu có dấu hiệu im lặng, không cập nhật tiến độ |
+| Quy trình hiện tại (3–7 bước) | 1. Mở nhóm chat Messenger/Zalo của nhóm bài tập lớn · 2. Nhắn tin tag tên từng thành viên: "Mọi người làm bài đến đâu rồi?" · 3. Chờ đợi phản hồi rời rạc, có bạn 'seen' nhưng không trả lời hoặc khất nợ · 4. Mở Google Docs / Drive kiểm tra lịch sử chỉnh sửa xem ai đã viết nội dung thật · 5. Nhắn tin riêng cho từng bạn giục nộp bài hoặc tự mình ngồi 'gánh team' làm nốt |
+| Bottleneck (bước nào, mất bao nhiêu phút) | **Bước 3 & 4 (mất từ 30–45 phút mỗi tối):** Sự im lặng và thiếu minh bạch về tiến độ; nhóm trưởng phải mở từng file kiểm tra chéo mất rất nhiều thời gian và năng lượng |
+| Impact (nếu không giải thì sao) | 80% bài tập nhóm rơi vào cảnh thức trắng đêm 'chữa cháy' trong 24 giờ cuối; chất lượng bài nộp chắp vá; sinh viên bị stress nặng nề và rạn nứt tình bạn sau môn học |
+| Success metric (baseline → target) | Thời gian theo dõi tiến độ giảm từ **45 phút xuống dưới 5 phút/ngày**; tỷ lệ hoàn thành task đúng hạn tăng từ **40% lên > 85%**; triệt tiêu tình trạng 'gánh team' đêm cuối |
+| Phương án không dùng AI | Bảng Trello / Notion Kanban chia cột Todo - In Progress - Done và giao deadline con (Sub-deadlines) rõ ràng từ đầu buổi họp nhóm |
+| Giả thuyết về AI (nếu có) | AI Co-pilot nhắc việc thông minh (Smart Check-in): Nhắn tin riêng thăm hỏi tiến độ bằng giọng điệu thân thiện, phát hiện thành viên đang gặp bế tắc (blocker) để báo cho nhóm trưởng hỗ trợ kịp thời |
+| Cảm nhận nhanh | **No AI / Rule-based (Quy trình quản trị dự án Kanban)** |
 
 Quy trình nháp hiện tại:
 
 ```text
-[1. Nhận thông báo tiền: 5'] → [2. Hỏi ngày ở từng người: 10'] 
-→ [3. Nhập Excel tính tỷ lệ: 12'] 🔴 
-→ [4. Soạn tin nhắn breakdown: 5'] → [5. Thu tiền & nhắc nợ: kéo dài nhiều ngày]
-Tổng thời gian tính toán: 35 phút/tháng.
+[1. Mở nhóm chat bài tập: 2'] → [2. Tag tên hỏi tiến độ: 3'] 
+→ [3. Chờ đợi phản hồi rời rạc: 15-30'] 🔴
+→ [4. Mở Drive soi lịch sử sửa bài: 15'] 🔴
+→ [5. Giục riêng từng người hoặc tự gánh bài: 20']
+Tổng thời gian: 45-60 phút mệt mỏi mỗi tối.
 ```
 
 ---
 
 ### Card muốn pitch nhất
 
-- Card số: **Card #1 (Điều chỉnh CV và so khớp kỹ năng theo JD ứng tuyển thực tập)**
-- Vì sao: Đây là bài toán mang tính thời điểm sống còn đối với mọi sinh viên năm 3 và năm cuối. Nỗi đau rất thật: ai cũng từng ngồi hàng giờ trước trang Word trắng xóa, không biết viết gì để CV vừa vặn với một JD công nghệ dài ngoằng. Quy trình làm việc rất rõ ràng, thời gian lãng phí đo lường được (60 phút/CV), và giá trị của AI ở đây là giải phóng sự bế tắc ngôn ngữ (unblocking writer's block) trong khi quyền quyết định cuối cùng vẫn thuộc về sinh viên.
-- Câu hỏi muốn nhóm phản biện: *"Nếu sinh viên chỉ cần dùng một template CV chuẩn và tự sửa tay 2-3 gạch đầu dòng, liệu việc dùng AI có thực sự cần thiết hay nó chỉ tạo ra những bản CV sáo rỗng giống hệt nhau?"*
+- Card số: **Card #1 (Tổng hợp câu hỏi phỏng vấn tình huống bám sát JD thực tập — Problem #3)**
+- Vì sao: Đây là bài toán có giá trị thực tế cao nhất và dễ đo lường nhất đối với sinh viên chuẩn bị bước chân vào thị trường lao động. Khác với câu hỏi phỏng vấn chung chung trên mạng, mỗi JD đòi hỏi một bộ câu hỏi tình huống rất riêng (ví dụ: vị trí Data Analyst khác hoàn toàn Frontend hay Marketing). Quy trình thủ công mất hơn 100 phút đêm trước ngày phỏng vấn gây áp lực tâm lý cực lớn. Đây là bài toán mà AI phát huy thế mạnh vượt trội: đọc hiểu văn bản JD dài và sinh ra các câu hỏi tình huống sắc bén kèm khung sườn trả lời theo phương pháp STAR.
+- Câu hỏi muốn nhóm phản biện: *"Nếu sinh viên chỉ cần lên Google tra 'Top 20 câu hỏi phỏng vấn IT/Kinh doanh' thì việc dùng AI để sinh câu hỏi theo từng JD cụ thể có thực sự mang lại lợi thế cạnh tranh hay không, hay nó chỉ khiến sinh viên bị 'học tủ' máy móc?"*
 
 ### AI đã phản biện card thế nào
 
 | Điểm yếu AI chỉ ra | Đồng ý? | Đã sửa gì |
 |---|---|---|
-| AI cảnh báo nguy cơ sinh viên sẽ lạm dụng AI để "bịa" ra kinh nghiệm làm việc hoặc kỹ năng không có thật để vượt qua ATS | Đồng ý hoàn toàn | Tôi đã bổ sung ngay vào phần **Ranh giới (Operational Boundary)**: AI tuyệt đối không được tự ý thêm công nghệ hay kỹ năng mới mà sinh viên chưa từng cung cấp; AI chỉ được phép tối ưu hóa cách hành văn và làm nổi bật từ các dự án môn học THẬT mà sinh viên đã tải lên |
-| AI cho rằng JD thường có rất nhiều yêu cầu rườm rà (nice-to-have), nếu cố nhét hết vào CV sẽ làm CV bị loãng và dài quá 1 trang | Đồng ý | Tôi đã sửa quy trình: Bổ sung bước phân loại từ khóa thành 2 nhóm: Kỹ năng cốt lõi (Core/Must-have) và Kỹ năng cộng điểm (Bonus/Nice-to-have). Bản nháp của AI chỉ tập trung khớp các từ khóa cốt lõi để giữ CV trong độ dài 1 trang chuẩn |
-| AI gợi ý xây dựng tính năng tự động gửi email ứng tuyển hàng loạt (Auto-apply) đến các nhà tuyển dụng | Không đồng ý | Tôi kiên quyết bác bỏ ý tưởng này vì đây là hành vi spam thiếu chuyên nghiệp. Tôi giữ nguyên nguyên tắc **Human-In-The-Loop**: Sinh viên bắt buộc phải tự đọc lại từng câu chữ, kiểm tra độ chính xác rồi mới tự tay bấm nộp hồ sơ |
+| AI cho rằng sinh viên có thể lạm dụng công cụ để học thuộc lòng câu trả lời do AI viết sẵn thay vì thể hiện năng lực và tính cách thật của mình | Đồng ý hoàn toàn | Tôi đã bổ sung vào ranh giới an toàn: AI tuyệt đối **không được viết sẵn toàn bộ câu trả lời hoàn chỉnh** để sinh viên học vẹt; AI chỉ được phép sinh ra câu hỏi phỏng vấn và gợi ý **khung sườn cấu trúc theo phương pháp STAR** (Tình huống - Nhiệm vụ - Hành động - Kết quả) để sinh viên tự điền kinh nghiệm thật của mình vào |
+| AI cảnh báo một số JD công ty viết rất sơ sài hoặc quá chung chung, AI sẽ sinh ra câu hỏi không thực tế | Đồng ý | Tôi đã đưa thêm điều kiện đầu vào: Nếu JD quá ngắn (dưới 100 từ) hoặc thiếu thông tin trách nhiệm, hệ thống phải yêu cầu sinh viên cung cấp thêm tên vị trí và lĩnh vực công ty để câu hỏi không bị bay bổng vô căn cứ |
+| AI gợi ý làm tính năng mô phỏng phỏng vấn bằng giọng nói tương tác thời gian thực (Voice Agent) | Không đồng ý | Tôi từ chối vì Voice Agent thời gian thực quá phức tạp, độ trễ cao và dễ gây lỗi trong phạm vi lab. Tôi giữ nguyên kiến trúc **Workflow đơn giản**: Đọc JD ➔ Trích xuất yêu cầu ➔ Tạo danh sách 5–7 câu hỏi tình huống có cấu trúc để sinh viên chủ động luyện tập |
 
 ---
 
@@ -174,7 +175,7 @@ Tổng thời gian tính toán: 35 phút/tháng.
 | Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
 | CP1 Scan | Brainstorm thêm các vấn đề xoay quanh đời sống sinh viên thuê trọ và sinh hoạt | Gợi ý ý tưởng về việc báo lỗi hỏng hóc đồ trọ và chia tiền hóa đơn | Đề xuất ý tưởng viển vông: "AI tự động gửi CV hàng loạt 100 công ty" | Bỏ qua ý tưởng spam, chỉ giữ lại các vấn đề có quy trình thủ công cụ thể và đo lường được thời gian |
-| CP2 Problem Card | Đóng vai nhà tuyển dụng khó tính và chuyên gia hướng nghiệp phản biện Card #1 | Chỉ ra nguy cơ sinh viên dùng AI "bịa đặt" kinh nghiệm để qua mặt ATS | Khuyên nên tự động hóa toàn bộ việc nộp CV mà không cần người duyệt | Thiết lập ranh giới cứng: Bắt buộc sinh viên tự duyệt từng từ, AI chỉ được viết lại từ các dự án môn học có thật |
+| CP2 Problem Card | Đóng vai nhà tuyển dụng khó tính phản biện Card #1 (Luyện câu hỏi phỏng vấn theo JD) | Chỉ ra nguy cơ sinh viên học vẹt câu trả lời máy móc và JD sơ sài | Gợi ý làm Voice Agent tương tác thời gian thực quá phức tạp | Giữ kiến trúc Workflow đơn giản: AI chỉ sinh câu hỏi sát JD và khung sườn STAR, sinh viên tự điền nội dung thật |
 | CP4 Research | (Sẽ điền sau khi thực hiện CP4) | | | |
 | CP5 Quy trình | (Sẽ điền sau khi thực hiện CP5) | | | |
 | CP5–6 Problem Statement | (Sẽ điền sau khi thực hiện CP5–6) | | | |
