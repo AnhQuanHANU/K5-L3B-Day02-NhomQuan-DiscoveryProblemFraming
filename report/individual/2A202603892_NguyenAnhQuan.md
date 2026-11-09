@@ -153,20 +153,18 @@ Tổng thời gian: 45-60 phút mệt mỏi mỗi tối.
 
 ## 4. Tôi đã tham gia phần nào (CP3 → CP7)
 
-*(Sẽ điền chi tiết sau khi nhóm tổ chức thảo luận và hội tụ từ CP3 đến CP7)*
-
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | Chuẩn bị sẵn sàng Card #1 (Tối ưu CV theo JD) kèm câu hỏi phản biện để pitch | Sẵn sàng trình bày trong 2 phút tại CP3 |
-| Phản biện bài của bạn khác | Chuẩn bị sẵn góc nhìn để hỏi xoáy vào tính khả thi và bằng chứng thật | Sẽ ghi lại tại CP3 |
-| Nhận phản biện | Ghi nhận câu hỏi phản biện từ các thành viên trong nhóm | Sẽ ghi lại tại CP3 |
-| Gom cluster / cây OST | Tham gia phân loại candidate và xây dựng cây Opportunity Solution Tree | Sẽ thực hiện tại CP3 |
-| Chọn candidate problem | Cùng nhóm chấm điểm 7 tiêu chí để hội tụ về 1 bài toán duy nhất | Sẽ thực hiện tại CP3 |
-| Kiểm chứng / research | Phỏng vấn bạn học thực tế và tìm kiếm các công cụ tương tự trên thị trường | Sẽ thực hiện tại CP4 |
-| Quy trình nhóm | Tham gia vẽ sơ đồ quy trình trước và sau khi có sự can thiệp của công nghệ | Sẽ thực hiện tại CP5 |
-| Problem Statement | Soạn thảo Problem Statement v0 và hoàn thiện v1 có ranh giới rõ ràng | Sẽ thực hiện tại CP5 & CP6 |
-| Mức can thiệp AI | Đánh giá 4 mức No AI / Rule / Workflow / Agent và lập AI Canvas | Sẽ thực hiện tại CP6 |
-| Quyết định | Tham gia đánh giá 4 rủi ro và xác định điều kiện thử nghiệm pilot | Sẽ thực hiện tại CP6 |
+| Pitch Problem Card (CP3) | Trình bày 3 Problem Card cá nhân (#3 Luyện phỏng vấn theo JD, #6 Tìm link nộp bài bị trôi, #7 Theo dõi tiến độ task nhóm). Nhấn mạnh Card #3 với quy trình 4 bước và baseline 2–3 tiếng | Nhóm đưa Card #3 vào Shortlist 3 candidate chung cuộc để chấm điểm |
+| Phản biện bài của bạn khác (CP3) | - Đặt câu hỏi cho Thành (Bài toán Báo cáo huấn luyện mô hình tuần #1): *"Phần đánh giá chất lượng nhận định tự động đo thế nào? Có cần chuyên môn kỹ thuật sâu để verify số liệu không?"*<br>- Đặt câu hỏi cho Nhung (Bài toán Phân tích ảnh hưởng CR #1): *"Tài liệu rải rác nhiều nơi (Jira, Figma, code); chất lượng phân tích khó đo và rủi ro estimate sai rất cao?"* | Giúp nhóm nhận ra bài của Thành dễ bị ảo giác số liệu và giải quyết bằng script tốt hơn; bài phân tích CR của Nhung có phạm vi quá rộng khó kiểm soát rủi ro trong lab |
+| Nhận phản biện (CP3) | - Nhận câu hỏi từ Nhung về Card #3 (Luyện phỏng vấn theo JD): *"Mỗi công ty và người phỏng vấn có phong cách hỏi khác nhau, liệu câu hỏi tổng hợp từ JD có sát thực tế phỏng vấn không?"*<br>- Nhận câu hỏi từ Thành về Card #6 (Tìm link nộp bài): *"Zalo/Discord đều có Search và Pin message, sao không dùng rule/hashtag đơn giản thay vì AI?"* | Thừa nhận rằng kết quả phỏng vấn phụ thuộc nhiều yếu tố phi kỹ thuật, khó đo lường success metric khách quan; đồng thuận loại Card #3 và Card #6 để hội tụ sang bài toán có quy trình chuẩn hơn |
+| Gom cluster / cây OST (CP3) | Cùng Thành và Nhung phân loại 9 candidate thành 3 cụm (Review thông tin, Phân loại dữ liệu, Tổng hợp dữ liệu quy mô lớn). Chủ trì dựng cây OST rút gọn | Xác định đúng 1 Outcome gốc đo được (giảm thời gian làm biên bản từ 90 xuống < 25 phút), bóc tách và gạch bỏ 4 ý tưởng solution đội lốt opportunity |
+| Chọn candidate problem (CP3) | Cùng nhóm chấm điểm 7 tiêu chí cho 3 candidate shortlist. Nhận thấy bài toán của Nhung (#2 Biên bản workshop lấy yêu cầu của BA) đạt điểm cao nhất (34/35) | Đồng thuận 100% chọn bài toán Biên bản workshop lấy yêu cầu của BA làm bài toán chính của nhóm |
+| Kiểm chứng / research (CP4) | Hỗ trợ Thành lập Assumption Map và thiết kế bảng câu hỏi phỏng vấn sâu theo The Mom Test | Tập trung kiểm chứng giả định về thời gian soạn biên bản thực tế và rào cản bảo mật dữ liệu họp |
+| Quy trình nhóm (CP5) | Đảm nhận vai trò chính: vẽ sơ đồ quy trình hiện tại (90 phút) và quy trình tương lai (20 phút có HITL), xác định rõ bottleneck và boundary AI | Sơ đồ quy trình trực quan trước/sau có đầy đủ thời gian từng bước, điểm dừng và fallback |
+| Problem Statement (CP5–6) | Cùng Thành thảo luận và hoàn thiện Problem Statement v0 thành v1, bổ sung 4 ranh giới kiểm soát AI | Đảm bảo Problem Statement bám sát outcome định lượng và có tiêu chí eval rõ ràng |
+| Mức can thiệp AI (CP6) | Phân tích ma trận 4 mức (No AI, Rule, Workflow, Agent), lập luận vì sao dừng ở Workflow mà không lên Agent | Giữ an toàn dữ liệu, chống ảo giác bằng Human-in-the-loop |
+| Quyết định (CP6) | Tham gia đánh giá 4 rủi ro lớn (Value, Feasibility, Usability, Viability) và xây dựng điều kiện dừng | Đưa ra quyết định Go kèm điều kiện thí điểm pilot trên 5 dự án nội bộ |
 
 ---
 
@@ -176,37 +174,40 @@ Tổng thời gian: 45-60 phút mệt mỏi mỗi tối.
 |---|---|---|---|---|
 | CP1 Scan | Brainstorm thêm các vấn đề xoay quanh đời sống sinh viên thuê trọ và sinh hoạt | Gợi ý ý tưởng về việc báo lỗi hỏng hóc đồ trọ và chia tiền hóa đơn | Đề xuất ý tưởng viển vông: "AI tự động gửi CV hàng loạt 100 công ty" | Bỏ qua ý tưởng spam, chỉ giữ lại các vấn đề có quy trình thủ công cụ thể và đo lường được thời gian |
 | CP2 Problem Card | Đóng vai nhà tuyển dụng khó tính phản biện Card #1 (Luyện câu hỏi phỏng vấn theo JD) | Chỉ ra nguy cơ sinh viên học vẹt câu trả lời máy móc và JD sơ sài | Gợi ý làm Voice Agent tương tác thời gian thực quá phức tạp | Giữ kiến trúc Workflow đơn giản: AI chỉ sinh câu hỏi sát JD và khung sườn STAR, sinh viên tự điền nội dung thật |
-| CP4 Research | (Sẽ điền sau khi thực hiện CP4) | | | |
-| CP5 Quy trình | (Sẽ điền sau khi thực hiện CP5) | | | |
-| CP5–6 Problem Statement | (Sẽ điền sau khi thực hiện CP5–6) | | | |
-| CP6 Mức can thiệp / quyết định | (Sẽ điền sau khi thực hiện CP6) | | | |
+| CP3 Hội tụ nhóm | Dùng AI thử phân loại 9 candidate và cấu trúc cây Opportunity Solution Tree | Gợi ý cấu trúc phân nhóm theo 3 cụm nhu cầu: Review, Phân loại, Tổng hợp | Đưa giải pháp ("Chatbot ghi âm", "Tool xuất PDF") vào tầng Opportunity của cây OST | Kiên quyết gạch bỏ các giải pháp công nghệ khỏi tầng Opportunity theo đúng nguyên tắc Teresa Torres |
+| CP4 Research | Khảo sát các công cụ tóm tắt cuộc họp trên thị trường (Otter, Fireflies, Fathom) | Tổng hợp nhanh các tính năng speech-to-text và summary hiện có | Bỏ qua rào cản nghiêm trọng về bảo mật dữ liệu doanh nghiệp (NDA) và bối cảnh họp tiếng Việt/Vietlish | Nhận định rõ khoảng trống thị trường: công cụ quốc tế không phân loại chuẩn 4 mục của BA và nguy cơ lộ bí mật kinh doanh |
+| CP5 Quy trình | Gợi ý các bước tự động hóa quy trình soạn biên bản workshop cho BA | Gợi ý bước tách đoạn hội thoại và gán tag theo vai trò người nói | Đề xuất cho AI tự động gửi biên bản sang khách hàng để tối ưu thời gian | Bác bỏ hoàn toàn: thiết lập chốt chặn Human-in-the-loop bắt buộc BA phải rà soát và bấm gửi |
+| CP6 Mức can thiệp / quyết định | Đánh giá ưu nhược điểm giữa kiến trúc Workflow và Agent | Phân tích rõ sự khác biệt giữa chuỗi bước tuần tự và cơ chế tự chủ ra quyết định | Khuyên nên dùng Autonomous Agent để tự giao task Jira | Từ chối mức Agent vì rủi ro tạo nhầm task và ảo giác dữ liệu; kiên quyết chọn Workflow an toàn |
 
 ---
 
 ## 6. Reflection (CP7)
 
-*(Phần này sẽ được hoàn thành sau khi kết thúc buổi làm việc nhóm từ CP3 đến CP6, phản ánh trải nghiệm cá nhân thật với tối thiểu 200 từ).*
-
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**  
-(Sẽ điền sau buổi pitch CP3)
+Khi nghe Thành trình bày về bài toán tổng hợp log huấn luyện mô hình (#1) và Nhung trình bày bài toán lập biên bản workshop lấy yêu cầu (#2), tôi nhận ra một sự khác biệt rất lớn giữa bài toán cá nhân sinh viên và bài toán nghiệp vụ trong môi trường doanh nghiệp. Các bài toán của Thành và Nhung đều gắn liền với một vai trò nghề nghiệp rõ rệt (Data/AI Engineer, Business Analyst) và sở hữu một quy trình làm việc chuẩn hóa (SOP) với đầu vào, đầu ra cụ thể. Đặc biệt, qua chia sẻ của Nhung, tôi thấm thía nỗi đau thực tế của một BA: sau buổi họp căng thẳng kéo dài 2–3 tiếng, họ phải thức thêm 1.5 tiếng để nghe lại recording và chắt lọc từng quyết định nhỏ. Điều này giúp tôi mở rộng tư duy vượt ra ngoài góc nhìn đời sống sinh viên để tiếp cận bài toán từ lăng kính giá trị kinh tế và hiệu quả vận hành của tổ chức.
 
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**  
-(Sẽ điền sau thảo luận CP3–CP5)
+Nhóm tôi đã bị cuốn vào tư duy solution-first rất rõ ở đầu chặng CP3. Ngay khi Nhung vừa pitch xong bài toán biên bản workshop, cả nhóm đã hào hứng bàn ngay: "dùng Whisper để transcribe audio tiếng Việt", "dùng Gemini 1.5 Pro prompt dài để tóm tắt", hay "viết bot Google Meet tự nhảy vào phòng họp ghi chép". Chỉ đến khi cùng nhau xây dựng cây Opportunity Solution Tree (OST), chúng tôi mới giật mình nhận ra mình đang nhồi nhét tên công nghệ và tính năng vào tầng cơ hội. Nhóm đã lập tức phanh lại, gạch bỏ toàn bộ các công cụ và bot khỏi cây OST, ép bản thân phải quay về định nghĩa đúng Opportunity bằng chính nỗi đau của con người: BA mất 60–90 phút nghe lại recording, ranh giới giữa yêu cầu và câu hỏi mở bị nhập nhằng, và nỗi lo ngại lộ thông tin bí mật nếu chia sẻ file ghi âm thô.
 
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**  
-(Sẽ điền sau khi nhận phản biện nhóm)
+Tôi đã đổi ý hoàn toàn ở bước chấm điểm Shortlist CP3. Ban đầu, tôi rất muốn bảo vệ bài toán của mình là "Luyện câu hỏi phỏng vấn kỹ thuật theo JD" (Card #3) vì chính bản thân tôi đang là sinh viên năm cuối lo lắng về việc đi làm. Tuy nhiên, khi Nhung phản biện: *"Mỗi công ty và người phỏng vấn có phong cách hỏi khác nhau, làm sao đo lường được việc AI sinh câu hỏi có giúp sinh viên đỗ phỏng vấn hay không?"*, và Thành chỉ ra bài toán của tôi không có baseline thời gian và quy trình chuẩn, tôi nhận ra mình đang rơi vào bẫy thiên vị cá nhân (confirmation bias). Bài toán của tôi có Impact rất khó đo lường khách quan. Ngược lại, bài toán Biên bản workshop của Nhung có quy trình chuẩn xác, baseline đo lường bằng phút rõ ràng (60–90 phút) và giải quyết trực tiếp rủi ro scope creep cho dự án. Tôi đã hoàn toàn bị thuyết phục, chủ động đổi ý ủng hộ bài của Nhung và nhận phụ trách chính khâu vẽ sơ đồ quy trình trước/sau ở CP5.
 
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**  
-(Sẽ điền sau kiểm chứng CP4)
+Điều làm tôi bất ngờ nhất khi nghiên cứu các công cụ hiện có trên thị trường (như Otter.ai, Fireflies.ai, Fathom) là hầu hết các công cụ này chỉ dừng lại ở việc tạo tóm tắt cuộc họp chung chung (Executive Summary), nhưng lại bỏ trống hoàn toàn việc phân loại nghiệp vụ chuyên sâu của BA: bóc tách rõ ràng giữa "Yêu cầu chức năng", "Quyết định đã chốt", "Câu hỏi mở chờ xác nhận", và "Action items giao cụ thể cho ai". Hơn thế nữa, rào cản lớn nhất của các doanh nghiệp phần mềm không nằm ở công nghệ nhận diện giọng nói, mà nằm ở chính sách bảo mật thông tin (NDA): khách hàng không bao giờ chấp nhận cho một con bot lạ tham gia cuộc họp hoặc đẩy audio chứa bí mật kinh doanh lên cloud của bên thứ ba.
 
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**  
-(Sẽ điền sau khi chốt Problem Statement v1)
+Điều khó khăn nhất là việc bóc tách ranh giới kiểm soát (Boundary) và xác định chỉ số thành công (Success Metric) định lượng mà không bị biến tướng thành giải pháp trá hình. Ban đầu, chúng tôi thường viết metric chung chung như "giúp BA làm biên bản nhanh hơn và không bỏ sót ý" — đây là cách viết sáo rỗng và không thể nghiệm thu thực tế. Nhóm đã phải thảo luận rất kỹ để đưa ra con số cụ thể: rút ngắn thời gian từ baseline 90 phút xuống dưới 25 phút review, tỷ lệ bỏ sót quyết định < 5%, và 100% biên bản gửi trong ngày. Việc kiên quyết thiết lập ranh giới "AI tuyệt đối không được tự ý gửi email cho khách" cũng là một quyết định then chốt để bảo vệ uy tín doanh nghiệp.
 
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**  
-(Sẽ điền sau khi kết thúc CP6)
+Nếu được thực hiện lại từ đầu, tôi sẽ thúc đẩy nhóm tiến hành phỏng vấn sâu với các BA/PM ngay từ cuối CP2 thay vì đợi đến CP4 mới đi tìm người kiểm chứng. Có bằng chứng thực địa sớm sẽ giúp khâu pitching ở CP3 diễn ra nhanh chóng và thực tế hơn nhiều. Bên cạnh đó, tôi sẽ phản biện nhóm mạnh mẽ hơn về bài toán xử lý phương ngữ vùng miền và việc chêm xen thuật ngữ tiếng Anh - tiếng Việt (Vietlish) trong các buổi workshop phần mềm tại Việt Nam — đây là rào cản kỹ thuật rất lớn mà ban đầu nhóm đã nhìn nhận có phần quá màu hồng.
 
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.  
-(Sẽ điền khi kết thúc bài lab)
+- **Problem:** Sau mỗi buổi workshop lấy yêu cầu 2–3 tiếng với khách hàng, Business Analyst (BA) mất 60–90 phút nghe lại recording và tổng hợp ghi chép rời rạc để ra biên bản chốt, dễ dẫn đến trễ hạn gửi trong ngày và bỏ sót quyết định quan trọng gây phát sinh tranh cãi phạm vi (scope creep).  
+- **Quy trình:** Gồm 5 bước tuần tự: (1) Thu thập ghi chép/transcript thô của buổi họp; (2) Tiền xử lý và làm sạch văn bản; (3) AI trích xuất và phân loại vào 4 mục chuẩn (Yêu cầu, Quyết định, Câu hỏi mở, Action items); (4) BA kiểm tra, chỉnh sửa bản nháp (Human-in-the-loop); (5) BA gửi email biên bản cho khách hàng xác nhận.  
+- **Metric:** Rút ngắn thời gian hoàn thành biên bản của BA từ baseline 90 phút xuống dưới 25 phút review (giảm hơn 70% thời gian), trong khi giữ tỷ lệ bỏ sót quyết định dưới 5%, đảm bảo 100% biên bản phát hành trong ngày.  
+- **Boundary:** AI tuyệt đối không tự ý gửi email hay phát hành tài liệu ra bên ngoài; AI không tự suy diễn các yêu cầu chưa được thảo luận; mọi thông tin trích xuất đều phải kèm timestamp đối soát; dữ liệu họp không được dùng để huấn luyện mô hình công cộng.  
+- **Mức can thiệp AI:** Chọn mức **Workflow**. Đây là quy trình có chuỗi bước cố định, cần sự kết hợp giữa xử lý ngôn ngữ tự nhiên của AI và sự kiểm duyệt của con người; No AI/Rule không xử lý được ngôn ngữ hội thoại tự nhiên, còn Agent tự động gửi mail thì quá rủi ro về mặt bảo mật và ảo giác.  
+- **Quyết định:** Nhóm đưa ra quyết định **Go** (tiến hành triển khai giải pháp Workflow), với điều kiện tiên quyết là giữ vững cổng kiểm soát của con người (Human-in-the-loop) và triển khai thử nghiệm pilot trên 5 dự án nội bộ để đo lường độ chính xác trước khi áp dụng diện rộng.
 
 ---
 
