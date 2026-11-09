@@ -69,6 +69,8 @@ Sau khi tự mình liệt kê 8 vấn đề từ chính cuộc sống hằng ng�
 
 Quy trình nháp hiện tại:
 
+![Thẻ bài toán #1 - Luyện phỏng vấn theo JD](../assets/cp2-interview-prep-card.png)
+
 ```text
 HIỆN TẠI — 105 phút chuẩn bị phỏng vấn
 
@@ -98,6 +100,8 @@ Tổng thời gian: 105 phút căng thẳng trong đêm trước ngày phỏng v
 
 Quy trình nháp hiện tại:
 
+![Thẻ bài toán #2 - Tìm link nộp bài](../assets/cp2-pinned-message-card.png)
+
 ```text
 [1. Mở nhóm chat Zalo/Discord: 2'] → [2. Gõ tìm kiếm từ khóa: 3'] 
 → [3. Cuộn đọc tin trôi xác định bài: 10'] 🔴
@@ -124,6 +128,8 @@ Tổng thời gian: 22 phút hoang mang trước giờ nộp bài.
 | Cảm nhận nhanh | **No AI / Rule-based (Quy trình quản trị dự án Kanban)** |
 
 Quy trình nháp hiện tại:
+
+![Thẻ bài toán #3 - Theo dõi tiến độ task](../assets/cp2-team-task-tracking-card.png)
 
 ```text
 [1. Mở nhóm chat bài tập: 2'] → [2. Tag tên hỏi tiến độ: 3'] 

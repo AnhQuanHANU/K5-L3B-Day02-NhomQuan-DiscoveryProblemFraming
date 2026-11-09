@@ -48,6 +48,8 @@ OUTCOME: Rút ngắn thời gian phát hành biên bản workshop lấy yêu c�
 └── Opportunity D: Ngại chia sẻ transcript hoặc recording thô cho khách hàng vì chứa nhiều trao đổi ngoài lề và dữ liệu nhạy cảm
 ```
 
+![Sơ đồ Cây Opportunity Solution Tree](../assets/cp3-ba-workshop-ost.png)
+
 Những ý đã gạch bỏ vì là solution đội lốt opportunity:
 
 - ~Xây dựng chatbot AI tự động tham gia Google Meet/Teams để ghi âm và tóm tắt cuộc họp~ *(Solution: phụ thuộc bot ngoài, khách hàng từ chối cho bot tham gia vì lý do bảo mật dữ liệu doanh nghiệp và NDA)*
@@ -115,7 +117,7 @@ Giả định nhóm kiểm chứng trong buổi này: **Giả định #1, #2 và
 
 Cách đã dùng: **Phỏng vấn sâu theo phương pháp The Mom Test** (phỏng vấn 3 người: 1 Senior BA, 1 Project Manager và 1 Junior BA; đặt câu hỏi về hành vi và sự việc cụ thể đã xảy ra trong quá khứ, không hỏi câu hỏi giả định hoặc xin lời khen).
 
-#### Interview snapshot 1 — Senior Business Analyst
+#### Interview snapshot 1 — Senior Business Analyst ([Xem file chi tiết](../assets/cp4-interview-snapshot-1.md))
 | Trường | Nội dung |
 |---|---|
 | Người được hỏi | Chị L. — Senior BA, 4 năm kinh nghiệm tại công ty Outsourcing phần mềm quy mô 180 người |
@@ -125,7 +127,7 @@ Cách đã dùng: **Phỏng vấn sâu theo phương pháp The Mom Test** (phỏ
 | Mất bao lâu, bao lần? | Trung bình 70–90 phút cho mỗi biên bản sau workshop dài; trung bình 2–3 buổi workshop mỗi tuần trong giai đoạn đầu dự án (Inception/Discovery). |
 | Insight / opportunity rút ra | Nỗi đau lớn nhất không phải là gõ chữ, mà là **công sức nghe lại audio để định vị chính xác quyết định cuối cùng giữa một chuỗi tranh cãi qua lại**. |
 
-#### Interview snapshot 2 — Project Manager / Delivery Manager
+#### Interview snapshot 2 — Project Manager / Delivery Manager ([Xem file chi tiết](../assets/cp4-interview-snapshot-2.md))
 | Trường | Nội dung |
 |---|---|
 | Người được hỏi | Anh H. — PM kiêm Delivery Manager, 7 năm kinh nghiệm quản lý dự án phần mềm doanh nghiệp |
@@ -135,7 +137,7 @@ Cách đã dùng: **Phỏng vấn sâu theo phương pháp The Mom Test** (phỏ
 | Mất bao lâu, bao lần? | Xảy ra ở 100% các dự án; rủi ro tranh cãi scope xuất hiện ít nhất 1–2 lần mỗi sprint nếu không có biên bản chặt chẽ. |
 | Insight / opportunity rút ra | Biên bản workshop không chỉ là ghi chép nội bộ mà là **căn cứ pháp lý - nghiệp vụ quan trọng nhất** để bảo vệ đội ngũ phát triển trước rủi ro làm thêm việc không tính phí. |
 
-#### Interview snapshot 3 — Junior Business Analyst
+#### Interview snapshot 3 — Junior Business Analyst ([Xem file chi tiết](../assets/cp4-interview-snapshot-3.md))
 | Trường | Nội dung |
 |---|---|
 | Người được hỏi | Bạn M. — Junior BA, 1 năm kinh nghiệm tại công ty sản phẩm SaaS |
