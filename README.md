@@ -25,7 +25,7 @@ Sau buổi này, bạn làm được:
 
 ## Thông tin chung
 
-| Mục | Nội dung |
+| Mục | Nội dung |~
 |---|---|
 | Khóa / level | K5 · Level 3, lớp **L3A** hoặc **L3B** (cùng một đề, khác nhau ở tên repo nộp bài) |
 | Ngày học | Day 02 |
