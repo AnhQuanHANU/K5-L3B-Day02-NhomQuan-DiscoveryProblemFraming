@@ -9,7 +9,7 @@
 - Họ tên: Nguyễn Anh Quân
 - MSSV: 2A202603892
 - Email trường: quanna.2a202603892@sis.hanu.edu.vn
-- Tên nhóm: L3B-Team02
+- Tên nhóm: NhomQuan
 - Link repo nhóm: https://github.com/AnhQuanHANU/K5-L3-Day02-NguyenAnhQuan03892-DiscoveryProblemFraming
 
 ---
